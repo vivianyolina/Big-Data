@@ -1,0 +1,121 @@
+﻿Codigo_SERVIU,Region,Comuna,Capitulo_DS27,Tipo_Proyecto,Constructora,Anio_Asignacion,Numero_Unidades,Fecha_Inicio_Obra,Fecha_Recepcion_Final_SERVIU,Duracion_Obra_Dias,Obra_Paralizada,Total_Asignacion_UF,UF_Por_Beneficiario,Beneficiarios,Total_UF_desde_beneficiarios,UF_Mediana_Beneficiario,UF_Promedio_Beneficiario,Diferencia_Control_UF
+SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,2026-03-04,2026-08-11,160,1,91170.0,303.9,300,91170.0,303.9,303.9,0.0
+SRV-2024-0002,Valparaíso,Viña del Mar,II,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,2025-09-14,2025-12-26,103,0,1134.22,189.04,6,1134.22,146.12,189.03666666666666,0.0
+SRV-2025-0003,Coquimbo,Coquimbo,IV,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2023,6,2023-03-13,2023-06-04,83,0,799.77,133.29,6,799.77,120.59,133.295,0.0
+SRV-2026-0004,La Araucanía,Temuco,I,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,2024-02-10,2024-05-25,105,0,754.86,125.81,6,754.86,122.845,125.81,0.0
+SRV-2022-0005,Biobío,Talcahuano,I,Mejoramiento de vivienda rural,Constructora Horizonte SpA,2024,6,2024-08-12,2024-12-13,123,0,655.99,109.33,6,655.99,93.765,109.33166666666666,0.0
+SRV-2023-0006,La Araucanía,Angol,I,Mejoramiento de bienes comunes,Constructora Valle Central Ltda.,2022,6,2022-02-06,2022-06-22,136,0,474.54,79.09,6,474.54,70.265,79.09,0.0
+SRV-2024-0007,Metropolitana,Maipú,II,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2023,6,2023-06-03,2023-10-03,122,0,844.29,140.72,6,844.29,146.175,140.715,0.0
+SRV-2025-0008,Metropolitana,San Bernardo,I,Acondicionamiento térmico,Proyectos y Montajes del Sur SpA,2025,6,2025-11-07,2026-01-03,57,0,771.64,128.61,6,771.64,121.21000000000001,128.60666666666665,0.0
+SRV-2026-0009,La Araucanía,Angol,II,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,2025-12-04,2026-05-05,152,0,842.3,140.38,6,842.3,145.92000000000002,140.38333333333333,0.0
+SRV-2022-0010,Los Lagos,Osorno,II,Mejoramiento de vivienda,Constructora Horizonte SpA,2025,6,2025-01-09,2025-04-17,98,0,765.03,127.5,6,765.03,119.01,127.505,0.0
+SRV-2023-0011,La Araucanía,Angol,I,Mejoramiento de vivienda rural,Constructora Andina Ltda.,2026,6,2026-08-17,2026-12-19,124,0,615.62,102.6,6,615.62,104.22999999999999,102.60333333333334,0.0
+SRV-2024-0012,Valparaíso,Villa Alemana,I,Mejoramiento de vivienda rural,Constructora Los Robles Ltda.,2023,6,2023-03-18,2023-06-21,95,0,748.45,124.74,6,748.45,120.005,124.74166666666667,0.0
+SRV-2025-0013,Valparaíso,San Antonio,II,Mejoramiento de bienes comunes,Constructora del Pacífico Ltda.,2022,6,2022-01-20,2022-05-17,117,0,639.27,106.55,6,639.27,88.95,106.545,0.0
+SRV-2026-0014,Los Lagos,Osorno,III,Acondicionamiento térmico,Soluciones Habitacionales SpA,2026,6,2026-06-05,2026-08-28,84,0,668.28,111.38,6,668.28,117.82,111.38,0.0
+SRV-2022-0015,Metropolitana,La Florida,IV,Mejoramiento de bienes comunes,Infraestructura Habitacional SpA,2022,6,2022-11-05,2023-05-22,198,0,895.23,149.21,6,895.23,127.285,149.205,0.0
+SRV-2023-0016,La Araucanía,Angol,II,Mejoramiento de vivienda rural,Edifica Nacional SpA,2025,6,2025-08-17,2025-11-14,89,0,589.01,98.17,6,589.01,100.315,98.16833333333334,0.0
+SRV-2024-0017,Coquimbo,Coquimbo,III,Ampliación de vivienda,Obras y Vivienda Chile SpA,2023,6,2023-08-15,2023-10-29,75,0,574.46,95.74,6,574.46,91.4,95.74333333333334,0.0
+SRV-2025-0018,Metropolitana,San Bernardo,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2026,6,2026-10-16,2026-12-10,55,0,658.74,109.79,6,658.74,104.94,109.79,0.0
+SRV-2026-0019,Valparaíso,Villa Alemana,I,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2025,6,2025-02-22,2025-05-05,72,0,749.3,124.88,6,749.3,126.09,124.88333333333333,0.0
+SRV-2022-0020,Biobío,Los Ángeles,II,Mejoramiento de vivienda,Constructora Valle Central Ltda.,2022,6,2022-02-04,2022-07-03,149,0,745.39,124.23,6,745.39,108.78,124.23166666666667,0.0
+SRV-2023-0021,La Araucanía,Padre Las Casas,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2023,6,2023-07-03,2023-11-13,133,0,883.04,147.17,6,883.04,142.04,147.17333333333332,0.0
+SRV-2024-0022,Los Lagos,Osorno,I,Mejoramiento de vivienda rural,Infraestructura Habitacional SpA,2022,6,2022-08-05,2022-09-13,39,0,890.62,148.44,6,890.62,129.155,148.43666666666667,0.0
+SRV-2025-0023,Los Lagos,Osorno,II,Mejoramiento de vivienda,Constructora Andina Ltda.,2025,6,2025-07-05,2025-10-01,88,0,843.29,140.55,6,843.29,129.36,140.54833333333332,0.0
+SRV-2026-0024,Biobío,Los Ángeles,I,Mejoramiento de vivienda,Edifica Nacional SpA,2026,6,2026-01-01,2026-05-07,126,0,866.37,144.4,6,866.37,120.785,144.395,0.0
+SRV-2022-0025,Metropolitana,La Florida,III,Mejoramiento de bienes comunes,Gestión Urbana y Obras SpA,2025,6,2025-03-14,2025-06-29,107,0,649.74,108.29,6,649.74,90.50999999999999,108.29,0.0
+SRV-2023-0026,Valparaíso,Viña del Mar,IV,Acondicionamiento térmico,Constructora Andina Ltda.,2022,6,2022-01-24,2022-09-07,226,1,884.39,147.4,6,884.39,163.745,147.39833333333334,0.0
+SRV-2024-0027,Metropolitana,Quilicura,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2023,6,2023-07-12,2023-10-07,87,0,756.55,126.09,6,756.55,109.35,126.09166666666665,0.0
+SRV-2025-0028,Coquimbo,Coquimbo,III,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2022,6,2022-07-23,2022-11-09,109,0,750.24,125.04,6,750.24,118.525,125.04,0.0
+SRV-2026-0029,Metropolitana,Puente Alto,I,Mejoramiento de vivienda,Infraestructura Habitacional SpA,2022,6,2022-03-01,2022-07-09,130,0,742.45,123.74,6,742.45,117.96000000000001,123.74166666666667,0.0
+SRV-2022-0030,O'Higgins,San Fernando,III,Ampliación de vivienda,Constructora Andina Ltda.,2025,6,2025-02-12,2025-06-16,124,0,563.9,93.98,6,563.9,105.22999999999999,93.98333333333333,0.0
+SRV-2023-0031,Coquimbo,La Serena,III,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2024,6,2024-11-06,2025-01-12,67,0,807.09,134.52,6,807.09,128.035,134.51500000000001,0.0
+SRV-2024-0032,Coquimbo,La Serena,II,Mejoramiento de vivienda,Constructora Horizonte SpA,2024,6,2024-07-10,2024-11-23,136,0,631.02,105.17,6,631.02,105.335,105.17,0.0
+SRV-2025-0033,La Araucanía,Angol,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2025,6,2025-05-16,2025-07-19,64,0,818.33,136.39,6,818.33,121.03,136.38833333333335,0.0
+SRV-2026-0034,Valparaíso,Viña del Mar,II,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2022,6,2022-09-18,2022-12-27,100,0,1187.12,197.85,6,1187.12,217.45,197.85333333333332,0.0
+SRV-2022-0035,Metropolitana,Puente Alto,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2022,6,2022-12-20,2023-04-29,130,0,845.99,141.0,6,845.99,116.935,140.99833333333333,0.0
+SRV-2023-0036,Valparaíso,Quilpué,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,2026-02-22,2026-05-13,80,0,689.46,114.91,6,689.46,101.61500000000001,114.91000000000001,0.0
+SRV-2024-0037,Biobío,Los Ángeles,I,Mejoramiento de bienes comunes,Constructora Valle Central Ltda.,2023,6,2023-12-05,2024-02-19,76,0,792.73,132.12,6,792.73,130.46,132.12166666666667,0.0
+SRV-2025-0038,O'Higgins,San Fernando,II,Ampliación de vivienda,Constructora Andina Ltda.,2024,6,2024-02-06,2024-06-14,129,0,830.25,138.38,6,830.25,144.74,138.375,0.0
+SRV-2026-0039,La Araucanía,Angol,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2024,6,2024-01-18,2024-03-18,60,0,646.32,107.72,6,646.3199999999999,91.28,107.71999999999998,0.0
+SRV-2022-0040,Biobío,Talcahuano,II,Acondicionamiento térmico,Gestión Urbana y Obras SpA,2026,6,2026-06-16,2026-09-25,101,0,815.94,135.99,6,815.94,123.805,135.99,0.0
+SRV-2023-0041,Biobío,Talcahuano,III,Acondicionamiento térmico,Constructora Los Robles Ltda.,2026,6,2026-09-18,2026-12-05,78,0,715.65,119.27,6,715.65,116.84,119.27499999999999,0.0
+SRV-2024-0042,Biobío,Chillán,II,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,2024-03-02,2024-07-23,143,0,785.96,130.99,6,785.96,115.875,130.99333333333334,0.0
+SRV-2025-0043,La Araucanía,Angol,I,Mejoramiento de vivienda,Soluciones Habitacionales SpA,2025,6,2025-12-13,2026-05-23,161,0,640.09,106.68,6,640.09,102.28999999999999,106.68166666666667,0.0
+SRV-2026-0044,Metropolitana,Quilicura,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2024,6,2024-12-07,2025-04-14,128,0,699.14,116.52,6,699.14,106.08,116.52333333333333,0.0
+SRV-2022-0045,Coquimbo,La Serena,III,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2025,6,2025-08-06,2025-12-14,130,0,717.95,119.66,6,717.95,122.54,119.65833333333335,0.0
+SRV-2023-0046,Los Lagos,Castro,I,Mejoramiento de vivienda,Constructora Valle Central Ltda.,2025,6,2025-07-03,2025-09-16,75,0,722.34,120.39,6,722.34,101.72999999999999,120.39,0.0
+SRV-2024-0047,La Araucanía,Angol,IV,Mejoramiento de vivienda,Constructora Andina Ltda.,2025,6,2025-01-16,2025-08-13,209,1,722.83,120.47,6,722.8299999999999,99.88,120.47166666666665,0.0
+SRV-2025-0048,Biobío,Talcahuano,III,Acondicionamiento térmico,Constructora Los Robles Ltda.,2024,6,2024-08-04,2024-11-02,90,0,820.63,136.77,6,820.63,125.045,136.77166666666668,0.0
+SRV-2026-0049,La Araucanía,Angol,II,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2025,6,2025-11-16,2026-03-09,113,0,714.4,119.07,6,714.4,135.085,119.06666666666666,0.0
+SRV-2022-0050,Biobío,Talcahuano,IV,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2023,6,2023-05-18,2023-08-16,90,0,571.78,95.3,6,571.78,96.075,95.29666666666667,0.0
+SRV-2023-0051,Metropolitana,Puente Alto,II,Mejoramiento de vivienda rural,Infraestructura Habitacional SpA,2026,6,2026-03-11,2026-06-10,91,0,811.65,135.28,6,811.65,130.175,135.275,0.0
+SRV-2024-0052,Valparaíso,Viña del Mar,III,Ampliación de vivienda,Soluciones Habitacionales SpA,2024,6,2024-11-09,2025-03-31,142,0,751.36,125.23,6,751.36,111.235,125.22666666666667,0.0
+SRV-2025-0053,Valparaíso,Villa Alemana,II,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2025,6,2025-08-06,2025-11-30,116,0,1017.51,169.59,6,1017.51,155.5,169.585,0.0
+SRV-2026-0054,Coquimbo,Ovalle,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2026,6,2026-01-24,2026-03-26,61,0,749.02,124.84,6,749.02,125.61,124.83666666666666,0.0
+SRV-2022-0055,Los Lagos,Puerto Montt,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2024,6,2024-01-23,2024-07-11,170,0,472.46,78.74,6,472.46,81.295,78.74333333333333,0.0
+SRV-2023-0056,Valparaíso,Quilpué,IV,Mejoramiento de bienes comunes,Constructora del Pacífico Ltda.,2026,6,2026-09-24,2027-03-16,173,1,744.98,124.16,6,744.98,114.595,124.16333333333334,0.0
+SRV-2024-0057,Valparaíso,San Antonio,II,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,2026-06-15,2027-02-12,242,1,531.05,88.51,6,531.05,80.725,88.50833333333333,0.0
+SRV-2025-0058,Metropolitana,Puente Alto,IV,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2023,6,2023-12-23,2024-02-24,63,0,849.19,141.53,6,849.19,126.19,141.53166666666667,0.0
+SRV-2026-0059,Metropolitana,San Bernardo,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,2024-05-08,2024-06-20,43,0,624.77,104.13,6,624.77,102.03999999999999,104.12833333333333,0.0
+SRV-2022-0060,Metropolitana,Maipú,II,Mejoramiento de vivienda rural,Constructora Los Robles Ltda.,2023,6,2023-03-21,2023-05-29,69,0,937.61,156.27,6,937.61,187.995,156.26833333333335,0.0
+SRV-2023-0061,Biobío,Chillán,I,Ampliación de vivienda,Constructora Valle Central Ltda.,2023,6,2023-02-07,2023-05-10,92,0,733.69,122.28,6,733.69,121.02,122.28166666666668,0.0
+SRV-2024-0062,Biobío,Los Ángeles,II,Mejoramiento de vivienda,Obras y Vivienda Chile SpA,2026,6,2026-09-12,2026-11-11,60,0,712.16,118.69,6,712.16,114.055,118.69333333333333,0.0
+SRV-2025-0063,Biobío,Concepción,III,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2023,6,2023-10-03,2023-11-28,56,0,895.64,149.27,6,895.64,125.56,149.27333333333334,0.0
+SRV-2026-0064,Valparaíso,Quilpué,IV,Mejoramiento de bienes comunes,Edifica Nacional SpA,2025,6,2025-08-20,2026-02-04,168,0,848.95,141.49,6,848.9499999999999,141.26,141.49166666666665,0.0
+SRV-2022-0065,Valparaíso,Viña del Mar,I,Mejoramiento de bienes comunes,Obras y Vivienda Chile SpA,2025,6,2025-08-15,2025-11-21,98,0,632.2,105.37,6,632.1999999999999,93.985,105.36666666666666,0.0
+SRV-2023-0066,Biobío,Chillán,IV,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2024,6,2024-08-21,2024-10-28,68,0,544.6,90.77,6,544.6,90.755,90.76666666666667,0.0
+SRV-2024-0067,Metropolitana,San Bernardo,II,Mejoramiento de vivienda rural,Obras y Vivienda Chile SpA,2023,6,2023-05-16,2023-08-18,94,0,539.54,89.92,6,539.54,86.76,89.92333333333333,0.0
+SRV-2025-0068,Metropolitana,Peñalolén,I,Acondicionamiento térmico,Infraestructura Habitacional SpA,2025,6,2025-11-12,2026-01-08,57,0,881.87,146.98,6,881.87,143.51,146.97833333333332,0.0
+SRV-2026-0069,Los Lagos,Osorno,II,Acondicionamiento térmico,Soluciones Habitacionales SpA,2024,6,2024-06-01,2024-08-08,68,0,971.46,161.91,6,971.46,137.595,161.91,0.0
+SRV-2022-0070,La Araucanía,Angol,I,Mejoramiento de vivienda,Constructora Horizonte SpA,2023,6,2023-07-14,2023-11-02,111,0,741.51,123.58,6,741.51,135.725,123.585,0.0
+SRV-2023-0071,Biobío,Los Ángeles,IV,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2025,6,2025-02-10,2025-10-27,259,1,594.25,99.04,6,594.25,95.735,99.04166666666667,0.0
+SRV-2024-0072,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Edifica Nacional SpA,2026,6,2026-09-05,2026-11-14,70,0,885.61,147.6,6,885.61,127.295,147.60166666666666,0.0
+SRV-2025-0073,O'Higgins,Rancagua,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,6,2024-03-13,2024-08-30,170,1,713.13,118.86,6,713.13,109.595,118.855,0.0
+SRV-2026-0074,Biobío,Talcahuano,III,Acondicionamiento térmico,Edifica Nacional SpA,2024,6,2024-02-05,2024-07-19,165,0,575.98,96.0,6,575.98,100.28,95.99666666666667,0.0
+SRV-2022-0075,Coquimbo,Coquimbo,I,Mejoramiento de bienes comunes,Constructora Horizonte SpA,2025,6,2025-04-12,2025-07-03,82,0,883.79,147.3,6,883.7900000000001,143.91000000000003,147.29833333333335,-0.0
+SRV-2023-0076,Valparaíso,Valparaíso,II,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,6,2025-12-23,2026-03-25,92,0,929.45,154.91,6,929.45,141.885,154.90833333333333,0.0
+SRV-2024-0077,Coquimbo,Coquimbo,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2023,6,2023-02-11,2023-03-30,47,0,608.28,101.38,6,608.28,104.77,101.38,0.0
+SRV-2025-0078,Biobío,Los Ángeles,II,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2022,6,2022-03-07,2022-07-08,123,0,912.59,152.1,6,912.5899999999999,138.32,152.09833333333333,0.0
+SRV-2026-0079,La Araucanía,Villarrica,I,Mejoramiento de vivienda rural,Constructora Nuevo Sur Ltda.,2025,6,2025-11-02,2026-01-03,62,0,549.41,91.57,6,549.4100000000001,78.16499999999999,91.56833333333334,-0.0
+SRV-2022-0080,Valparaíso,Valparaíso,II,Mejoramiento de vivienda,Infraestructura Habitacional SpA,2024,6,2024-11-02,2025-01-21,80,0,811.91,135.32,6,811.91,144.235,135.31833333333333,0.0
+SRV-2023-0081,Coquimbo,Coquimbo,III,Mejoramiento de vivienda,Edifica Nacional SpA,2024,6,2024-05-09,2024-07-05,57,0,759.39,126.56,6,759.39,127.475,126.565,0.0
+SRV-2024-0082,La Araucanía,Angol,II,Acondicionamiento térmico,Constructora Valle Central Ltda.,2025,6,2025-01-12,2025-04-26,104,0,869.33,144.89,6,869.3299999999999,117.885,144.88833333333332,0.0
+SRV-2025-0083,Valparaíso,Valparaíso,I,Mejoramiento de vivienda rural,Soluciones Habitacionales SpA,2025,6,2025-11-17,2026-03-05,108,0,669.36,111.56,6,669.36,117.235,111.56,0.0
+SRV-2026-0084,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,2026-11-17,2027-03-13,116,0,542.54,90.42,6,542.54,90.575,90.42333333333333,0.0
+SRV-2022-0085,Valparaíso,San Antonio,II,Acondicionamiento térmico,Gestión Urbana y Obras SpA,2024,6,2024-06-15,2024-09-24,101,0,683.54,113.92,6,683.54,107.84,113.92333333333333,0.0
+SRV-2023-0086,Coquimbo,La Serena,I,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,2025-10-22,2025-12-19,58,0,783.04,130.51,6,783.04,130.14000000000001,130.50666666666666,0.0
+SRV-2024-0087,O'Higgins,San Fernando,III,Acondicionamiento térmico,Proyectos y Montajes del Sur SpA,2025,6,2025-09-14,2025-10-30,46,0,665.63,110.94,6,665.63,111.185,110.93833333333333,0.0
+SRV-2025-0088,Valparaíso,San Antonio,I,Mejoramiento de vivienda rural,Gestión Urbana y Obras SpA,2025,6,2025-07-13,2025-12-18,158,1,676.85,112.81,6,676.85,119.455,112.80833333333334,0.0
+SRV-2026-0089,La Araucanía,Temuco,I,Mejoramiento de vivienda rural,Constructora Horizonte SpA,2023,6,2023-05-23,2023-09-06,106,0,556.76,92.79,6,556.76,82.905,92.79333333333334,0.0
+SRV-2022-0090,Biobío,Talcahuano,II,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,6,2025-04-04,2025-06-22,79,0,853.84,142.31,6,853.84,140.35500000000002,142.30666666666667,0.0
+SRV-2023-0091,Los Lagos,Puerto Montt,I,Acondicionamiento térmico,Soluciones Habitacionales SpA,2025,6,2025-01-10,2025-04-24,104,0,856.98,142.83,6,856.98,142.84,142.83,0.0
+SRV-2024-0092,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2025,6,2025-03-20,2025-05-28,69,0,528.66,88.11,6,528.66,77.99000000000001,88.11,0.0
+SRV-2025-0093,O'Higgins,San Fernando,III,Acondicionamiento térmico,Edifica Nacional SpA,2023,6,2023-12-20,2024-04-10,112,0,648.92,108.15,6,648.92,102.245,108.15333333333332,0.0
+SRV-2026-0094,Metropolitana,Maipú,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2023,6,2023-01-08,2023-03-20,71,0,995.37,165.9,6,995.37,152.93,165.895,0.0
+SRV-2022-0095,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Soluciones Habitacionales SpA,2023,6,2023-01-06,2023-07-18,193,1,674.25,112.38,6,674.25,108.445,112.375,0.0
+SRV-2023-0096,Metropolitana,La Florida,I,Ampliación de vivienda,Constructora Los Robles Ltda.,2024,6,2024-07-20,2024-09-25,67,0,493.41,82.23,6,493.40999999999997,87.93,82.235,0.0
+SRV-2024-0097,Los Lagos,Puerto Montt,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2026,6,2026-05-17,2026-09-29,135,0,600.48,100.08,6,600.48,98.195,100.08,0.0
+SRV-2025-0098,O'Higgins,San Fernando,II,Ampliación de vivienda,Constructora Andina Ltda.,2023,6,2023-02-03,2023-05-23,109,0,998.93,166.49,6,998.9300000000001,162.28,166.48833333333334,-0.0
+SRV-2026-0099,Metropolitana,Maipú,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2022,6,2022-10-01,2022-12-11,71,0,883.43,147.24,6,883.4300000000001,124.92999999999999,147.23833333333334,-0.0
+SRV-2022-0100,Valparaíso,Villa Alemana,III,Mejoramiento de bienes comunes,Constructora Andina Ltda.,2024,6,2024-11-04,2025-02-03,91,0,1027.67,171.28,6,1027.67,166.14,171.27833333333334,0.0
+SRV-2023-0101,O'Higgins,Rancagua,III,Mejoramiento de bienes comunes,Constructora Horizonte SpA,2024,6,2024-02-02,2024-05-02,90,0,850.87,141.81,6,850.87,144.205,141.81166666666667,0.0
+SRV-2024-0102,Valparaíso,San Antonio,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2024,6,2024-08-18,2024-10-27,70,0,652.94,108.82,6,652.9399999999999,101.52,108.82333333333332,0.0
+SRV-2025-0103,Los Lagos,Puerto Montt,II,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2025,6,2025-11-06,2026-03-29,143,0,1063.33,177.22,6,1063.33,125.055,177.22166666666666,0.0
+SRV-2026-0104,La Araucanía,Villarrica,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,6,2024-12-05,2025-03-25,110,0,626.66,104.44,6,626.66,79.745,104.44333333333333,0.0
+SRV-2022-0105,Metropolitana,Puente Alto,I,Acondicionamiento térmico,Constructora Andina Ltda.,2023,6,2023-06-18,2024-05-25,342,1,691.22,115.2,6,691.22,86.565,115.20333333333333,0.0
+SRV-2023-0106,Metropolitana,Peñalolén,IV,Ampliación de vivienda,Constructora Horizonte SpA,2023,6,2023-02-23,2023-12-11,291,1,991.19,165.2,6,991.19,181.18,165.19833333333335,0.0
+SRV-2024-0107,Biobío,Coronel,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,5,2024-02-24,2024-05-05,71,0,572.16,114.43,5,572.16,122.8,114.43199999999999,0.0
+SRV-2025-0108,Biobío,Chillán,III,Mejoramiento de bienes comunes,Constructora Los Robles Ltda.,2025,5,2025-03-12,2025-07-31,141,1,479.56,95.91,5,479.56,91.13,95.912,0.0
+SRV-2026-0109,Metropolitana,San Bernardo,I,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,5,2025-06-07,2025-09-07,92,0,682.07,136.41,5,682.0699999999999,135.68,136.414,0.0
+SRV-2022-0110,Los Lagos,Osorno,II,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2025,5,2025-06-19,2025-08-27,69,0,596.0,119.2,5,596.0,108.36,119.2,0.0
+SRV-2023-0111,Valparaíso,Quilpué,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2024,5,2024-09-15,2024-12-02,78,0,561.92,112.38,5,561.9200000000001,114.93,112.38400000000001,-0.0
+SRV-2024-0112,La Araucanía,Padre Las Casas,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2025,5,2025-01-13,2025-05-26,133,0,903.35,180.67,5,903.35,199.64,180.67000000000002,0.0
+SRV-2025-0113,Biobío,Los Ángeles,I,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2025,5,2025-05-17,2025-06-30,44,0,720.11,144.02,5,720.11,117.87,144.022,0.0
+SRV-2026-0114,O'Higgins,San Fernando,I,Ampliación de vivienda,Constructora del Pacífico Ltda.,2024,5,2024-01-05,2024-05-07,123,0,667.36,133.47,5,667.36,118.5,133.472,0.0
+SRV-2022-0115,Valparaíso,Villa Alemana,II,Mejoramiento de vivienda,Edifica Nacional SpA,2026,5,2026-04-04,2026-07-24,111,0,695.36,139.07,5,695.36,136.91,139.072,0.0
+SRV-2023-0116,Metropolitana,Maipú,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2023,5,2023-12-10,2024-02-03,55,0,525.02,105.0,5,525.02,108.72,105.00399999999999,0.0
+SRV-2024-0117,Valparaíso,Valparaíso,I,Mejoramiento de vivienda rural,Constructora Andina Ltda.,2024,5,2024-10-17,2025-01-21,96,0,546.48,109.3,5,546.48,76.79,109.296,0.0
+SRV-2025-0118,La Araucanía,Angol,III,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2025,5,2025-01-03,2025-03-20,76,0,762.02,152.4,5,762.02,177.56,152.404,0.0
+SRV-2026-0119,O'Higgins,San Fernando,III,Ampliación de vivienda,Soluciones Habitacionales SpA,2024,5,2024-01-02,2024-12-25,358,1,549.98,110.0,5,549.98,72.87,109.99600000000001,0.0
+SRV-2022-0120,Biobío,Coronel,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2025,5,2025-09-02,2025-11-11,70,0,671.17,134.23,5,671.1700000000001,129.5,134.234,-0.0

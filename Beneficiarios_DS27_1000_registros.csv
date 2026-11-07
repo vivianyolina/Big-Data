@@ -1,0 +1,1001 @@
+﻿ID_Beneficiario,Codigo_SERVIU,Region,Comuna,Capitulo_DS27,Tipo_Proyecto,Constructora,Anio_Asignacion,Numero_Unidades_Proyecto,Tipo_Tenencia,Tipo_Vivienda,Asignacion_Individual_UF,Fecha_Inicio_Obra,Fecha_Recepcion_Final_SERVIU,Duracion_Obra_Dias,Obra_Paralizada
+BEN-00001,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00002,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00003,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00004,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00005,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00006,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00007,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00008,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00009,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00010,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00011,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00012,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00013,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00014,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00015,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00016,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00017,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00018,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00019,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00020,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00021,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00022,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00023,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00024,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00025,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00026,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00027,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00028,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00029,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00030,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00031,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00032,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00033,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00034,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00035,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00036,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00037,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00038,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00039,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00040,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00041,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00042,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00043,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00044,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00045,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00046,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00047,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00048,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00049,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00050,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00051,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00052,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00053,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00054,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00055,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00056,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00057,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00058,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00059,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00060,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00061,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00062,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00063,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00064,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00065,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00066,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00067,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00068,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00069,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00070,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00071,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00072,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00073,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00074,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00075,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00076,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00077,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00078,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00079,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00080,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00081,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00082,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00083,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00084,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00085,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00086,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00087,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00088,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00089,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00090,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00091,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00092,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00093,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00094,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00095,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00096,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00097,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00098,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00099,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00100,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00101,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00102,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00103,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00104,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00105,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00106,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00107,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00108,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00109,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00110,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00111,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00112,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00113,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00114,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00115,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00116,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00117,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00118,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00119,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00120,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00121,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00122,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00123,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00124,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00125,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00126,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00127,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00128,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00129,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00130,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00131,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00132,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00133,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00134,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00135,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00136,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00137,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00138,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00139,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00140,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00141,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00142,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00143,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00144,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00145,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00146,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00147,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00148,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00149,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00150,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00151,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00152,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00153,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00154,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00155,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00156,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00157,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00158,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00159,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00160,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00161,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00162,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00163,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00164,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00165,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00166,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00167,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00168,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00169,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00170,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00171,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00172,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00173,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00174,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00175,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00176,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00177,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00178,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00179,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00180,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00181,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00182,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00183,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00184,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00185,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00186,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00187,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00188,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00189,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00190,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00191,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00192,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00193,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00194,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00195,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00196,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00197,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00198,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00199,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00200,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00201,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00202,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00203,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00204,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00205,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00206,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00207,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00208,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00209,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00210,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00211,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00212,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00213,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00214,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00215,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00216,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00217,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00218,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00219,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00220,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00221,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00222,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00223,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00224,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00225,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00226,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00227,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00228,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00229,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00230,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00231,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00232,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00233,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00234,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00235,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00236,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00237,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00238,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00239,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00240,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00241,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00242,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00243,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00244,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00245,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00246,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00247,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00248,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00249,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00250,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00251,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00252,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00253,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00254,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00255,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00256,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00257,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00258,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00259,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00260,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00261,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00262,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00263,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00264,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00265,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00266,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00267,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00268,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00269,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00270,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00271,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00272,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00273,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00274,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00275,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00276,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00277,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00278,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00279,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00280,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00281,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00282,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00283,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00284,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00285,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00286,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00287,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00288,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00289,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00290,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00291,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00292,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00293,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00294,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00295,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00296,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00297,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00298,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Ocupante regularizado,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00299,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Asignatario/a,Departamento,303.9,2026-03-04,2026-08-11,160,1
+BEN-00300,SRV-2023-0001,Biobío,Chillán,I,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2026,300,Propietario/a,Casa,303.9,2026-03-04,2026-08-11,160,1
+BEN-00301,SRV-2024-0002,Valparaíso,Viña del Mar,II,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Ocupante regularizado,Casa,105.22,2025-09-14,2025-12-26,103,0
+BEN-00302,SRV-2024-0002,Valparaíso,Viña del Mar,II,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Propietario/a,Casa,117.46,2025-09-14,2025-12-26,103,0
+BEN-00303,SRV-2024-0002,Valparaíso,Viña del Mar,II,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Propietario/a,Casa,164.14,2025-09-14,2025-12-26,103,0
+BEN-00304,SRV-2024-0002,Valparaíso,Viña del Mar,II,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Propietario/a,Casa,455.16,2025-09-14,2025-12-26,103,0
+BEN-00305,SRV-2024-0002,Valparaíso,Viña del Mar,II,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Asignatario/a,Casa,145.65,2025-09-14,2025-12-26,103,0
+BEN-00306,SRV-2024-0002,Valparaíso,Viña del Mar,II,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Asignatario/a,Casa,146.59,2025-09-14,2025-12-26,103,0
+BEN-00307,SRV-2025-0003,Coquimbo,Coquimbo,IV,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2023,6,Propietario/a,Casa,124.86,2023-03-13,2023-06-04,83,0
+BEN-00308,SRV-2025-0003,Coquimbo,Coquimbo,IV,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2023,6,Propietario/a,Casa,164.61,2023-03-13,2023-06-04,83,0
+BEN-00309,SRV-2025-0003,Coquimbo,Coquimbo,IV,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2023,6,Propietario/a,Casa,108.99,2023-03-13,2023-06-04,83,0
+BEN-00310,SRV-2025-0003,Coquimbo,Coquimbo,IV,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2023,6,Propietario/a,Departamento,211.21,2023-03-13,2023-06-04,83,0
+BEN-00311,SRV-2025-0003,Coquimbo,Coquimbo,IV,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2023,6,Ocupante regularizado,Casa,73.78,2023-03-13,2023-06-04,83,0
+BEN-00312,SRV-2025-0003,Coquimbo,Coquimbo,IV,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2023,6,Asignatario/a,Casa,116.32,2023-03-13,2023-06-04,83,0
+BEN-00313,SRV-2026-0004,La Araucanía,Temuco,I,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Casa,173.73,2024-02-10,2024-05-25,105,0
+BEN-00314,SRV-2026-0004,La Araucanía,Temuco,I,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Casa,96.44,2024-02-10,2024-05-25,105,0
+BEN-00315,SRV-2026-0004,La Araucanía,Temuco,I,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Casa,68.69,2024-02-10,2024-05-25,105,0
+BEN-00316,SRV-2026-0004,La Araucanía,Temuco,I,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Departamento,149.25,2024-02-10,2024-05-25,105,0
+BEN-00317,SRV-2026-0004,La Araucanía,Temuco,I,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Departamento,80.2,2024-02-10,2024-05-25,105,0
+BEN-00318,SRV-2026-0004,La Araucanía,Temuco,I,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Casa,186.55,2024-02-10,2024-05-25,105,0
+BEN-00319,SRV-2022-0005,Biobío,Talcahuano,I,Mejoramiento de vivienda rural,Constructora Horizonte SpA,2024,6,Propietario/a,Casa,86.33,2024-08-12,2024-12-13,123,0
+BEN-00320,SRV-2022-0005,Biobío,Talcahuano,I,Mejoramiento de vivienda rural,Constructora Horizonte SpA,2024,6,Propietario/a,Departamento,163.56,2024-08-12,2024-12-13,123,0
+BEN-00321,SRV-2022-0005,Biobío,Talcahuano,I,Mejoramiento de vivienda rural,Constructora Horizonte SpA,2024,6,Propietario/a,Casa,162.27,2024-08-12,2024-12-13,123,0
+BEN-00322,SRV-2022-0005,Biobío,Talcahuano,I,Mejoramiento de vivienda rural,Constructora Horizonte SpA,2024,6,Propietario/a,Casa,101.2,2024-08-12,2024-12-13,123,0
+BEN-00323,SRV-2022-0005,Biobío,Talcahuano,I,Mejoramiento de vivienda rural,Constructora Horizonte SpA,2024,6,Propietario/a,Casa,57.84,2024-08-12,2024-12-13,123,0
+BEN-00324,SRV-2022-0005,Biobío,Talcahuano,I,Mejoramiento de vivienda rural,Constructora Horizonte SpA,2024,6,Propietario/a,Casa,84.79,2024-08-12,2024-12-13,123,0
+BEN-00325,SRV-2023-0006,La Araucanía,Angol,I,Mejoramiento de bienes comunes,Constructora Valle Central Ltda.,2022,6,Propietario/a,Casa,95.04,2022-02-06,2022-06-22,136,0
+BEN-00326,SRV-2023-0006,La Araucanía,Angol,I,Mejoramiento de bienes comunes,Constructora Valle Central Ltda.,2022,6,Propietario/a,Departamento,57.71,2022-02-06,2022-06-22,136,0
+BEN-00327,SRV-2023-0006,La Araucanía,Angol,I,Mejoramiento de bienes comunes,Constructora Valle Central Ltda.,2022,6,Asignatario/a,Departamento,77.76,2022-02-06,2022-06-22,136,0
+BEN-00328,SRV-2023-0006,La Araucanía,Angol,I,Mejoramiento de bienes comunes,Constructora Valle Central Ltda.,2022,6,Propietario/a,Departamento,62.77,2022-02-06,2022-06-22,136,0
+BEN-00329,SRV-2023-0006,La Araucanía,Angol,I,Mejoramiento de bienes comunes,Constructora Valle Central Ltda.,2022,6,Ocupante regularizado,Casa,45.28,2022-02-06,2022-06-22,136,0
+BEN-00330,SRV-2023-0006,La Araucanía,Angol,I,Mejoramiento de bienes comunes,Constructora Valle Central Ltda.,2022,6,Propietario/a,Casa,135.98,2022-02-06,2022-06-22,136,0
+BEN-00331,SRV-2024-0007,Metropolitana,Maipú,II,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2023,6,Propietario/a,Casa,158.45,2023-06-03,2023-10-03,122,0
+BEN-00332,SRV-2024-0007,Metropolitana,Maipú,II,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2023,6,Propietario/a,Casa,117.91,2023-06-03,2023-10-03,122,0
+BEN-00333,SRV-2024-0007,Metropolitana,Maipú,II,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2023,6,Propietario/a,Departamento,194.13,2023-06-03,2023-10-03,122,0
+BEN-00334,SRV-2024-0007,Metropolitana,Maipú,II,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2023,6,Propietario/a,Casa,81.45,2023-06-03,2023-10-03,122,0
+BEN-00335,SRV-2024-0007,Metropolitana,Maipú,II,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2023,6,Propietario/a,Departamento,146.83,2023-06-03,2023-10-03,122,0
+BEN-00336,SRV-2024-0007,Metropolitana,Maipú,II,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2023,6,Propietario/a,Casa,145.52,2023-06-03,2023-10-03,122,0
+BEN-00337,SRV-2025-0008,Metropolitana,San Bernardo,I,Acondicionamiento térmico,Proyectos y Montajes del Sur SpA,2025,6,Asignatario/a,Casa,126.09,2025-11-07,2026-01-03,57,0
+BEN-00338,SRV-2025-0008,Metropolitana,San Bernardo,I,Acondicionamiento térmico,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Casa,152.11,2025-11-07,2026-01-03,57,0
+BEN-00339,SRV-2025-0008,Metropolitana,San Bernardo,I,Acondicionamiento térmico,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Casa,152.51,2025-11-07,2026-01-03,57,0
+BEN-00340,SRV-2025-0008,Metropolitana,San Bernardo,I,Acondicionamiento térmico,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Departamento,116.33,2025-11-07,2026-01-03,57,0
+BEN-00341,SRV-2025-0008,Metropolitana,San Bernardo,I,Acondicionamiento térmico,Proyectos y Montajes del Sur SpA,2025,6,Asignatario/a,Departamento,110.07,2025-11-07,2026-01-03,57,0
+BEN-00342,SRV-2025-0008,Metropolitana,San Bernardo,I,Acondicionamiento térmico,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Casa,114.53,2025-11-07,2026-01-03,57,0
+BEN-00343,SRV-2026-0009,La Araucanía,Angol,II,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Asignatario/a,Casa,174.47,2025-12-04,2026-05-05,152,0
+BEN-00344,SRV-2026-0009,La Araucanía,Angol,II,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Propietario/a,Casa,132.16,2025-12-04,2026-05-05,152,0
+BEN-00345,SRV-2026-0009,La Araucanía,Angol,II,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Propietario/a,Casa,159.68,2025-12-04,2026-05-05,152,0
+BEN-00346,SRV-2026-0009,La Araucanía,Angol,II,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Propietario/a,Departamento,202.75,2025-12-04,2026-05-05,152,0
+BEN-00347,SRV-2026-0009,La Araucanía,Angol,II,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Propietario/a,Casa,76.83,2025-12-04,2026-05-05,152,0
+BEN-00348,SRV-2026-0009,La Araucanía,Angol,II,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Propietario/a,Casa,96.41,2025-12-04,2026-05-05,152,0
+BEN-00349,SRV-2022-0010,Los Lagos,Osorno,II,Mejoramiento de vivienda,Constructora Horizonte SpA,2025,6,Ocupante regularizado,Casa,212.24,2025-01-09,2025-04-17,98,0
+BEN-00350,SRV-2022-0010,Los Lagos,Osorno,II,Mejoramiento de vivienda,Constructora Horizonte SpA,2025,6,Asignatario/a,Casa,120.23,2025-01-09,2025-04-17,98,0
+BEN-00351,SRV-2022-0010,Los Lagos,Osorno,II,Mejoramiento de vivienda,Constructora Horizonte SpA,2025,6,Ocupante regularizado,Casa,144.01,2025-01-09,2025-04-17,98,0
+BEN-00352,SRV-2022-0010,Los Lagos,Osorno,II,Mejoramiento de vivienda,Constructora Horizonte SpA,2025,6,Propietario/a,Casa,117.79,2025-01-09,2025-04-17,98,0
+BEN-00353,SRV-2022-0010,Los Lagos,Osorno,II,Mejoramiento de vivienda,Constructora Horizonte SpA,2025,6,Propietario/a,Casa,102.89,2025-01-09,2025-04-17,98,0
+BEN-00354,SRV-2022-0010,Los Lagos,Osorno,II,Mejoramiento de vivienda,Constructora Horizonte SpA,2025,6,Propietario/a,Departamento,67.87,2025-01-09,2025-04-17,98,0
+BEN-00355,SRV-2023-0011,La Araucanía,Angol,I,Mejoramiento de vivienda rural,Constructora Andina Ltda.,2026,6,Propietario/a,Casa,133.97,2026-08-17,2026-12-19,124,0
+BEN-00356,SRV-2023-0011,La Araucanía,Angol,I,Mejoramiento de vivienda rural,Constructora Andina Ltda.,2026,6,Propietario/a,Departamento,109.83,2026-08-17,2026-12-19,124,0
+BEN-00357,SRV-2023-0011,La Araucanía,Angol,I,Mejoramiento de vivienda rural,Constructora Andina Ltda.,2026,6,Propietario/a,Casa,77.61,2026-08-17,2026-12-19,124,0
+BEN-00358,SRV-2023-0011,La Araucanía,Angol,I,Mejoramiento de vivienda rural,Constructora Andina Ltda.,2026,6,Propietario/a,Casa,98.63,2026-08-17,2026-12-19,124,0
+BEN-00359,SRV-2023-0011,La Araucanía,Angol,I,Mejoramiento de vivienda rural,Constructora Andina Ltda.,2026,6,Propietario/a,Casa,78.14,2026-08-17,2026-12-19,124,0
+BEN-00360,SRV-2023-0011,La Araucanía,Angol,I,Mejoramiento de vivienda rural,Constructora Andina Ltda.,2026,6,Asignatario/a,Departamento,117.44,2026-08-17,2026-12-19,124,0
+BEN-00361,SRV-2024-0012,Valparaíso,Villa Alemana,I,Mejoramiento de vivienda rural,Constructora Los Robles Ltda.,2023,6,Propietario/a,Casa,104.94,2023-03-18,2023-06-21,95,0
+BEN-00362,SRV-2024-0012,Valparaíso,Villa Alemana,I,Mejoramiento de vivienda rural,Constructora Los Robles Ltda.,2023,6,Propietario/a,Casa,103.24,2023-03-18,2023-06-21,95,0
+BEN-00363,SRV-2024-0012,Valparaíso,Villa Alemana,I,Mejoramiento de vivienda rural,Constructora Los Robles Ltda.,2023,6,Asignatario/a,Casa,59.1,2023-03-18,2023-06-21,95,0
+BEN-00364,SRV-2024-0012,Valparaíso,Villa Alemana,I,Mejoramiento de vivienda rural,Constructora Los Robles Ltda.,2023,6,Propietario/a,Departamento,135.07,2023-03-18,2023-06-21,95,0
+BEN-00365,SRV-2024-0012,Valparaíso,Villa Alemana,I,Mejoramiento de vivienda rural,Constructora Los Robles Ltda.,2023,6,Asignatario/a,Casa,170.87,2023-03-18,2023-06-21,95,0
+BEN-00366,SRV-2024-0012,Valparaíso,Villa Alemana,I,Mejoramiento de vivienda rural,Constructora Los Robles Ltda.,2023,6,Ocupante regularizado,Departamento,175.23,2023-03-18,2023-06-21,95,0
+BEN-00367,SRV-2025-0013,Valparaíso,San Antonio,II,Mejoramiento de bienes comunes,Constructora del Pacífico Ltda.,2022,6,Asignatario/a,Departamento,153.78,2022-01-20,2022-05-17,117,0
+BEN-00368,SRV-2025-0013,Valparaíso,San Antonio,II,Mejoramiento de bienes comunes,Constructora del Pacífico Ltda.,2022,6,Propietario/a,Casa,87.61,2022-01-20,2022-05-17,117,0
+BEN-00369,SRV-2025-0013,Valparaíso,San Antonio,II,Mejoramiento de bienes comunes,Constructora del Pacífico Ltda.,2022,6,Propietario/a,Casa,146.28,2022-01-20,2022-05-17,117,0
+BEN-00370,SRV-2025-0013,Valparaíso,San Antonio,II,Mejoramiento de bienes comunes,Constructora del Pacífico Ltda.,2022,6,Propietario/a,Casa,77.6,2022-01-20,2022-05-17,117,0
+BEN-00371,SRV-2025-0013,Valparaíso,San Antonio,II,Mejoramiento de bienes comunes,Constructora del Pacífico Ltda.,2022,6,Propietario/a,Casa,90.29,2022-01-20,2022-05-17,117,0
+BEN-00372,SRV-2025-0013,Valparaíso,San Antonio,II,Mejoramiento de bienes comunes,Constructora del Pacífico Ltda.,2022,6,Propietario/a,Casa,83.71,2022-01-20,2022-05-17,117,0
+BEN-00373,SRV-2026-0014,Los Lagos,Osorno,III,Acondicionamiento térmico,Soluciones Habitacionales SpA,2026,6,Propietario/a,Departamento,143.32,2026-06-05,2026-08-28,84,0
+BEN-00374,SRV-2026-0014,Los Lagos,Osorno,III,Acondicionamiento térmico,Soluciones Habitacionales SpA,2026,6,Asignatario/a,Departamento,107.64,2026-06-05,2026-08-28,84,0
+BEN-00375,SRV-2026-0014,Los Lagos,Osorno,III,Acondicionamiento térmico,Soluciones Habitacionales SpA,2026,6,Asignatario/a,Casa,81.86,2026-06-05,2026-08-28,84,0
+BEN-00376,SRV-2026-0014,Los Lagos,Osorno,III,Acondicionamiento térmico,Soluciones Habitacionales SpA,2026,6,Propietario/a,Casa,67.35,2026-06-05,2026-08-28,84,0
+BEN-00377,SRV-2026-0014,Los Lagos,Osorno,III,Acondicionamiento térmico,Soluciones Habitacionales SpA,2026,6,Propietario/a,Casa,128.0,2026-06-05,2026-08-28,84,0
+BEN-00378,SRV-2026-0014,Los Lagos,Osorno,III,Acondicionamiento térmico,Soluciones Habitacionales SpA,2026,6,Asignatario/a,Departamento,140.11,2026-06-05,2026-08-28,84,0
+BEN-00379,SRV-2022-0015,Metropolitana,La Florida,IV,Mejoramiento de bienes comunes,Infraestructura Habitacional SpA,2022,6,Propietario/a,Casa,125.78,2022-11-05,2023-05-22,198,0
+BEN-00380,SRV-2022-0015,Metropolitana,La Florida,IV,Mejoramiento de bienes comunes,Infraestructura Habitacional SpA,2022,6,Asignatario/a,Departamento,90.31,2022-11-05,2023-05-22,198,0
+BEN-00381,SRV-2022-0015,Metropolitana,La Florida,IV,Mejoramiento de bienes comunes,Infraestructura Habitacional SpA,2022,6,Propietario/a,Casa,128.79,2022-11-05,2023-05-22,198,0
+BEN-00382,SRV-2022-0015,Metropolitana,La Florida,IV,Mejoramiento de bienes comunes,Infraestructura Habitacional SpA,2022,6,Asignatario/a,Casa,97.95,2022-11-05,2023-05-22,198,0
+BEN-00383,SRV-2022-0015,Metropolitana,La Florida,IV,Mejoramiento de bienes comunes,Infraestructura Habitacional SpA,2022,6,Propietario/a,Casa,273.48,2022-11-05,2023-05-22,198,0
+BEN-00384,SRV-2022-0015,Metropolitana,La Florida,IV,Mejoramiento de bienes comunes,Infraestructura Habitacional SpA,2022,6,Propietario/a,Departamento,178.92,2022-11-05,2023-05-22,198,0
+BEN-00385,SRV-2023-0016,La Araucanía,Angol,II,Mejoramiento de vivienda rural,Edifica Nacional SpA,2025,6,Propietario/a,Casa,65.05,2025-08-17,2025-11-14,89,0
+BEN-00386,SRV-2023-0016,La Araucanía,Angol,II,Mejoramiento de vivienda rural,Edifica Nacional SpA,2025,6,Asignatario/a,Casa,104.3,2025-08-17,2025-11-14,89,0
+BEN-00387,SRV-2023-0016,La Araucanía,Angol,II,Mejoramiento de vivienda rural,Edifica Nacional SpA,2025,6,Propietario/a,Departamento,115.35,2025-08-17,2025-11-14,89,0
+BEN-00388,SRV-2023-0016,La Araucanía,Angol,II,Mejoramiento de vivienda rural,Edifica Nacional SpA,2025,6,Propietario/a,Casa,139.26,2025-08-17,2025-11-14,89,0
+BEN-00389,SRV-2023-0016,La Araucanía,Angol,II,Mejoramiento de vivienda rural,Edifica Nacional SpA,2025,6,Propietario/a,Departamento,96.33,2025-08-17,2025-11-14,89,0
+BEN-00390,SRV-2023-0016,La Araucanía,Angol,II,Mejoramiento de vivienda rural,Edifica Nacional SpA,2025,6,Propietario/a,Casa,68.72,2025-08-17,2025-11-14,89,0
+BEN-00391,SRV-2024-0017,Coquimbo,Coquimbo,III,Ampliación de vivienda,Obras y Vivienda Chile SpA,2023,6,Propietario/a,Casa,148.81,2023-08-15,2023-10-29,75,0
+BEN-00392,SRV-2024-0017,Coquimbo,Coquimbo,III,Ampliación de vivienda,Obras y Vivienda Chile SpA,2023,6,Ocupante regularizado,Casa,88.79,2023-08-15,2023-10-29,75,0
+BEN-00393,SRV-2024-0017,Coquimbo,Coquimbo,III,Ampliación de vivienda,Obras y Vivienda Chile SpA,2023,6,Propietario/a,Casa,94.01,2023-08-15,2023-10-29,75,0
+BEN-00394,SRV-2024-0017,Coquimbo,Coquimbo,III,Ampliación de vivienda,Obras y Vivienda Chile SpA,2023,6,Propietario/a,Departamento,66.54,2023-08-15,2023-10-29,75,0
+BEN-00395,SRV-2024-0017,Coquimbo,Coquimbo,III,Ampliación de vivienda,Obras y Vivienda Chile SpA,2023,6,Propietario/a,Casa,43.63,2023-08-15,2023-10-29,75,0
+BEN-00396,SRV-2024-0017,Coquimbo,Coquimbo,III,Ampliación de vivienda,Obras y Vivienda Chile SpA,2023,6,Propietario/a,Departamento,132.68,2023-08-15,2023-10-29,75,0
+BEN-00397,SRV-2025-0018,Metropolitana,San Bernardo,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2026,6,Propietario/a,Casa,103.11,2026-10-16,2026-12-10,55,0
+BEN-00398,SRV-2025-0018,Metropolitana,San Bernardo,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2026,6,Propietario/a,Departamento,169.91,2026-10-16,2026-12-10,55,0
+BEN-00399,SRV-2025-0018,Metropolitana,San Bernardo,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2026,6,Propietario/a,Casa,83.71,2026-10-16,2026-12-10,55,0
+BEN-00400,SRV-2025-0018,Metropolitana,San Bernardo,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2026,6,Propietario/a,Casa,106.77,2026-10-16,2026-12-10,55,0
+BEN-00401,SRV-2025-0018,Metropolitana,San Bernardo,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2026,6,Asignatario/a,Casa,82.52,2026-10-16,2026-12-10,55,0
+BEN-00402,SRV-2025-0018,Metropolitana,San Bernardo,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2026,6,Ocupante regularizado,Departamento,112.72,2026-10-16,2026-12-10,55,0
+BEN-00403,SRV-2026-0019,Valparaíso,Villa Alemana,I,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2025,6,Asignatario/a,Departamento,153.55,2025-02-22,2025-05-05,72,0
+BEN-00404,SRV-2026-0019,Valparaíso,Villa Alemana,I,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2025,6,Propietario/a,Casa,143.02,2025-02-22,2025-05-05,72,0
+BEN-00405,SRV-2026-0019,Valparaíso,Villa Alemana,I,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2025,6,Propietario/a,Departamento,109.16,2025-02-22,2025-05-05,72,0
+BEN-00406,SRV-2026-0019,Valparaíso,Villa Alemana,I,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2025,6,Propietario/a,Casa,81.53,2025-02-22,2025-05-05,72,0
+BEN-00407,SRV-2026-0019,Valparaíso,Villa Alemana,I,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2025,6,Propietario/a,Casa,56.98,2025-02-22,2025-05-05,72,0
+BEN-00408,SRV-2026-0019,Valparaíso,Villa Alemana,I,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2025,6,Propietario/a,Casa,205.06,2025-02-22,2025-05-05,72,0
+BEN-00409,SRV-2022-0020,Biobío,Los Ángeles,II,Mejoramiento de vivienda,Constructora Valle Central Ltda.,2022,6,Propietario/a,Departamento,197.06,2022-02-04,2022-07-03,149,0
+BEN-00410,SRV-2022-0020,Biobío,Los Ángeles,II,Mejoramiento de vivienda,Constructora Valle Central Ltda.,2022,6,Propietario/a,Casa,223.43,2022-02-04,2022-07-03,149,0
+BEN-00411,SRV-2022-0020,Biobío,Los Ángeles,II,Mejoramiento de vivienda,Constructora Valle Central Ltda.,2022,6,Propietario/a,Casa,75.0,2022-02-04,2022-07-03,149,0
+BEN-00412,SRV-2022-0020,Biobío,Los Ángeles,II,Mejoramiento de vivienda,Constructora Valle Central Ltda.,2022,6,Ocupante regularizado,Casa,142.56,2022-02-04,2022-07-03,149,0
+BEN-00413,SRV-2022-0020,Biobío,Los Ángeles,II,Mejoramiento de vivienda,Constructora Valle Central Ltda.,2022,6,Propietario/a,Casa,46.17,2022-02-04,2022-07-03,149,0
+BEN-00414,SRV-2022-0020,Biobío,Los Ángeles,II,Mejoramiento de vivienda,Constructora Valle Central Ltda.,2022,6,Propietario/a,Casa,61.17,2022-02-04,2022-07-03,149,0
+BEN-00415,SRV-2023-0021,La Araucanía,Padre Las Casas,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2023,6,Asignatario/a,Casa,86.58,2023-07-03,2023-11-13,133,0
+BEN-00416,SRV-2023-0021,La Araucanía,Padre Las Casas,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2023,6,Propietario/a,Casa,120.39,2023-07-03,2023-11-13,133,0
+BEN-00417,SRV-2023-0021,La Araucanía,Padre Las Casas,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2023,6,Ocupante regularizado,Departamento,163.69,2023-07-03,2023-11-13,133,0
+BEN-00418,SRV-2023-0021,La Araucanía,Padre Las Casas,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2023,6,Propietario/a,Casa,69.45,2023-07-03,2023-11-13,133,0
+BEN-00419,SRV-2023-0021,La Araucanía,Padre Las Casas,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2023,6,Propietario/a,Casa,231.66,2023-07-03,2023-11-13,133,0
+BEN-00420,SRV-2023-0021,La Araucanía,Padre Las Casas,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2023,6,Asignatario/a,Casa,211.27,2023-07-03,2023-11-13,133,0
+BEN-00421,SRV-2024-0022,Los Lagos,Osorno,I,Mejoramiento de vivienda rural,Infraestructura Habitacional SpA,2022,6,Propietario/a,Departamento,124.13,2022-08-05,2022-09-13,39,0
+BEN-00422,SRV-2024-0022,Los Lagos,Osorno,I,Mejoramiento de vivienda rural,Infraestructura Habitacional SpA,2022,6,Asignatario/a,Casa,202.62,2022-08-05,2022-09-13,39,0
+BEN-00423,SRV-2024-0022,Los Lagos,Osorno,I,Mejoramiento de vivienda rural,Infraestructura Habitacional SpA,2022,6,Asignatario/a,Casa,134.18,2022-08-05,2022-09-13,39,0
+BEN-00424,SRV-2024-0022,Los Lagos,Osorno,I,Mejoramiento de vivienda rural,Infraestructura Habitacional SpA,2022,6,Propietario/a,Casa,87.13,2022-08-05,2022-09-13,39,0
+BEN-00425,SRV-2024-0022,Los Lagos,Osorno,I,Mejoramiento de vivienda rural,Infraestructura Habitacional SpA,2022,6,Asignatario/a,Casa,237.01,2022-08-05,2022-09-13,39,0
+BEN-00426,SRV-2024-0022,Los Lagos,Osorno,I,Mejoramiento de vivienda rural,Infraestructura Habitacional SpA,2022,6,Ocupante regularizado,Casa,105.55,2022-08-05,2022-09-13,39,0
+BEN-00427,SRV-2025-0023,Los Lagos,Osorno,II,Mejoramiento de vivienda,Constructora Andina Ltda.,2025,6,Propietario/a,Casa,91.52,2025-07-05,2025-10-01,88,0
+BEN-00428,SRV-2025-0023,Los Lagos,Osorno,II,Mejoramiento de vivienda,Constructora Andina Ltda.,2025,6,Ocupante regularizado,Casa,149.9,2025-07-05,2025-10-01,88,0
+BEN-00429,SRV-2025-0023,Los Lagos,Osorno,II,Mejoramiento de vivienda,Constructora Andina Ltda.,2025,6,Propietario/a,Casa,168.81,2025-07-05,2025-10-01,88,0
+BEN-00430,SRV-2025-0023,Los Lagos,Osorno,II,Mejoramiento de vivienda,Constructora Andina Ltda.,2025,6,Ocupante regularizado,Departamento,108.82,2025-07-05,2025-10-01,88,0
+BEN-00431,SRV-2025-0023,Los Lagos,Osorno,II,Mejoramiento de vivienda,Constructora Andina Ltda.,2025,6,Asignatario/a,Casa,225.1,2025-07-05,2025-10-01,88,0
+BEN-00432,SRV-2025-0023,Los Lagos,Osorno,II,Mejoramiento de vivienda,Constructora Andina Ltda.,2025,6,Propietario/a,Casa,99.14,2025-07-05,2025-10-01,88,0
+BEN-00433,SRV-2026-0024,Biobío,Los Ángeles,I,Mejoramiento de vivienda,Edifica Nacional SpA,2026,6,Propietario/a,Departamento,134.17,2026-01-01,2026-05-07,126,0
+BEN-00434,SRV-2026-0024,Biobío,Los Ángeles,I,Mejoramiento de vivienda,Edifica Nacional SpA,2026,6,Propietario/a,Casa,185.51,2026-01-01,2026-05-07,126,0
+BEN-00435,SRV-2026-0024,Biobío,Los Ángeles,I,Mejoramiento de vivienda,Edifica Nacional SpA,2026,6,Propietario/a,Departamento,107.4,2026-01-01,2026-05-07,126,0
+BEN-00436,SRV-2026-0024,Biobío,Los Ángeles,I,Mejoramiento de vivienda,Edifica Nacional SpA,2026,6,Propietario/a,Casa,103.06,2026-01-01,2026-05-07,126,0
+BEN-00437,SRV-2026-0024,Biobío,Los Ángeles,I,Mejoramiento de vivienda,Edifica Nacional SpA,2026,6,Propietario/a,Departamento,97.75,2026-01-01,2026-05-07,126,0
+BEN-00438,SRV-2026-0024,Biobío,Los Ángeles,I,Mejoramiento de vivienda,Edifica Nacional SpA,2026,6,Propietario/a,Departamento,238.48,2026-01-01,2026-05-07,126,0
+BEN-00439,SRV-2022-0025,Metropolitana,La Florida,III,Mejoramiento de bienes comunes,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Casa,90.44,2025-03-14,2025-06-29,107,0
+BEN-00440,SRV-2022-0025,Metropolitana,La Florida,III,Mejoramiento de bienes comunes,Gestión Urbana y Obras SpA,2025,6,Asignatario/a,Casa,50.56,2025-03-14,2025-06-29,107,0
+BEN-00441,SRV-2022-0025,Metropolitana,La Florida,III,Mejoramiento de bienes comunes,Gestión Urbana y Obras SpA,2025,6,Asignatario/a,Casa,90.58,2025-03-14,2025-06-29,107,0
+BEN-00442,SRV-2022-0025,Metropolitana,La Florida,III,Mejoramiento de bienes comunes,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Casa,204.05,2025-03-14,2025-06-29,107,0
+BEN-00443,SRV-2022-0025,Metropolitana,La Florida,III,Mejoramiento de bienes comunes,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Casa,74.62,2025-03-14,2025-06-29,107,0
+BEN-00444,SRV-2022-0025,Metropolitana,La Florida,III,Mejoramiento de bienes comunes,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Casa,139.49,2025-03-14,2025-06-29,107,0
+BEN-00445,SRV-2023-0026,Valparaíso,Viña del Mar,IV,Acondicionamiento térmico,Constructora Andina Ltda.,2022,6,Propietario/a,Departamento,170.03,2022-01-24,2022-09-07,226,1
+BEN-00446,SRV-2023-0026,Valparaíso,Viña del Mar,IV,Acondicionamiento térmico,Constructora Andina Ltda.,2022,6,Propietario/a,Departamento,157.46,2022-01-24,2022-09-07,226,1
+BEN-00447,SRV-2023-0026,Valparaíso,Viña del Mar,IV,Acondicionamiento térmico,Constructora Andina Ltda.,2022,6,Propietario/a,Casa,202.58,2022-01-24,2022-09-07,226,1
+BEN-00448,SRV-2023-0026,Valparaíso,Viña del Mar,IV,Acondicionamiento térmico,Constructora Andina Ltda.,2022,6,Propietario/a,Departamento,48.85,2022-01-24,2022-09-07,226,1
+BEN-00449,SRV-2023-0026,Valparaíso,Viña del Mar,IV,Acondicionamiento térmico,Constructora Andina Ltda.,2022,6,Propietario/a,Casa,190.64,2022-01-24,2022-09-07,226,1
+BEN-00450,SRV-2023-0026,Valparaíso,Viña del Mar,IV,Acondicionamiento térmico,Constructora Andina Ltda.,2022,6,Asignatario/a,Departamento,114.83,2022-01-24,2022-09-07,226,1
+BEN-00451,SRV-2024-0027,Metropolitana,Quilicura,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2023,6,Propietario/a,Casa,259.76,2023-07-12,2023-10-07,87,0
+BEN-00452,SRV-2024-0027,Metropolitana,Quilicura,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2023,6,Propietario/a,Departamento,120.52,2023-07-12,2023-10-07,87,0
+BEN-00453,SRV-2024-0027,Metropolitana,Quilicura,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2023,6,Propietario/a,Casa,69.08,2023-07-12,2023-10-07,87,0
+BEN-00454,SRV-2024-0027,Metropolitana,Quilicura,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2023,6,Propietario/a,Casa,88.49,2023-07-12,2023-10-07,87,0
+BEN-00455,SRV-2024-0027,Metropolitana,Quilicura,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2023,6,Propietario/a,Casa,100.43,2023-07-12,2023-10-07,87,0
+BEN-00456,SRV-2024-0027,Metropolitana,Quilicura,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2023,6,Asignatario/a,Casa,118.27,2023-07-12,2023-10-07,87,0
+BEN-00457,SRV-2025-0028,Coquimbo,Coquimbo,III,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2022,6,Propietario/a,Casa,150.6,2022-07-23,2022-11-09,109,0
+BEN-00458,SRV-2025-0028,Coquimbo,Coquimbo,III,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2022,6,Ocupante regularizado,Casa,120.19,2022-07-23,2022-11-09,109,0
+BEN-00459,SRV-2025-0028,Coquimbo,Coquimbo,III,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2022,6,Propietario/a,Casa,116.86,2022-07-23,2022-11-09,109,0
+BEN-00460,SRV-2025-0028,Coquimbo,Coquimbo,III,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2022,6,Propietario/a,Casa,105.77,2022-07-23,2022-11-09,109,0
+BEN-00461,SRV-2025-0028,Coquimbo,Coquimbo,III,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2022,6,Propietario/a,Departamento,110.16,2022-07-23,2022-11-09,109,0
+BEN-00462,SRV-2025-0028,Coquimbo,Coquimbo,III,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2022,6,Propietario/a,Casa,146.66,2022-07-23,2022-11-09,109,0
+BEN-00463,SRV-2026-0029,Metropolitana,Puente Alto,I,Mejoramiento de vivienda,Infraestructura Habitacional SpA,2022,6,Propietario/a,Casa,102.49,2022-03-01,2022-07-09,130,0
+BEN-00464,SRV-2026-0029,Metropolitana,Puente Alto,I,Mejoramiento de vivienda,Infraestructura Habitacional SpA,2022,6,Propietario/a,Departamento,137.05,2022-03-01,2022-07-09,130,0
+BEN-00465,SRV-2026-0029,Metropolitana,Puente Alto,I,Mejoramiento de vivienda,Infraestructura Habitacional SpA,2022,6,Asignatario/a,Casa,183.28,2022-03-01,2022-07-09,130,0
+BEN-00466,SRV-2026-0029,Metropolitana,Puente Alto,I,Mejoramiento de vivienda,Infraestructura Habitacional SpA,2022,6,Propietario/a,Casa,127.06,2022-03-01,2022-07-09,130,0
+BEN-00467,SRV-2026-0029,Metropolitana,Puente Alto,I,Mejoramiento de vivienda,Infraestructura Habitacional SpA,2022,6,Propietario/a,Casa,108.86,2022-03-01,2022-07-09,130,0
+BEN-00468,SRV-2026-0029,Metropolitana,Puente Alto,I,Mejoramiento de vivienda,Infraestructura Habitacional SpA,2022,6,Propietario/a,Casa,83.71,2022-03-01,2022-07-09,130,0
+BEN-00469,SRV-2022-0030,O'Higgins,San Fernando,III,Ampliación de vivienda,Constructora Andina Ltda.,2025,6,Propietario/a,Departamento,79.83,2025-02-12,2025-06-16,124,0
+BEN-00470,SRV-2022-0030,O'Higgins,San Fernando,III,Ampliación de vivienda,Constructora Andina Ltda.,2025,6,Propietario/a,Casa,111.46,2025-02-12,2025-06-16,124,0
+BEN-00471,SRV-2022-0030,O'Higgins,San Fernando,III,Ampliación de vivienda,Constructora Andina Ltda.,2025,6,Propietario/a,Casa,35.0,2025-02-12,2025-06-16,124,0
+BEN-00472,SRV-2022-0030,O'Higgins,San Fernando,III,Ampliación de vivienda,Constructora Andina Ltda.,2025,6,Propietario/a,Departamento,125.79,2025-02-12,2025-06-16,124,0
+BEN-00473,SRV-2022-0030,O'Higgins,San Fernando,III,Ampliación de vivienda,Constructora Andina Ltda.,2025,6,Propietario/a,Casa,112.82,2025-02-12,2025-06-16,124,0
+BEN-00474,SRV-2022-0030,O'Higgins,San Fernando,III,Ampliación de vivienda,Constructora Andina Ltda.,2025,6,Propietario/a,Casa,99.0,2025-02-12,2025-06-16,124,0
+BEN-00475,SRV-2023-0031,Coquimbo,La Serena,III,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2024,6,Asignatario/a,Casa,141.05,2024-11-06,2025-01-12,67,0
+BEN-00476,SRV-2023-0031,Coquimbo,La Serena,III,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2024,6,Propietario/a,Departamento,115.02,2024-11-06,2025-01-12,67,0
+BEN-00477,SRV-2023-0031,Coquimbo,La Serena,III,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2024,6,Propietario/a,Casa,197.09,2024-11-06,2025-01-12,67,0
+BEN-00478,SRV-2023-0031,Coquimbo,La Serena,III,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2024,6,Propietario/a,Casa,93.81,2024-11-06,2025-01-12,67,0
+BEN-00479,SRV-2023-0031,Coquimbo,La Serena,III,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2024,6,Asignatario/a,Casa,159.95,2024-11-06,2025-01-12,67,0
+BEN-00480,SRV-2023-0031,Coquimbo,La Serena,III,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2024,6,Propietario/a,Casa,100.17,2024-11-06,2025-01-12,67,0
+BEN-00481,SRV-2024-0032,Coquimbo,La Serena,II,Mejoramiento de vivienda,Constructora Horizonte SpA,2024,6,Asignatario/a,Casa,129.68,2024-07-10,2024-11-23,136,0
+BEN-00482,SRV-2024-0032,Coquimbo,La Serena,II,Mejoramiento de vivienda,Constructora Horizonte SpA,2024,6,Propietario/a,Casa,158.6,2024-07-10,2024-11-23,136,0
+BEN-00483,SRV-2024-0032,Coquimbo,La Serena,II,Mejoramiento de vivienda,Constructora Horizonte SpA,2024,6,Propietario/a,Departamento,53.27,2024-07-10,2024-11-23,136,0
+BEN-00484,SRV-2024-0032,Coquimbo,La Serena,II,Mejoramiento de vivienda,Constructora Horizonte SpA,2024,6,Propietario/a,Casa,113.46,2024-07-10,2024-11-23,136,0
+BEN-00485,SRV-2024-0032,Coquimbo,La Serena,II,Mejoramiento de vivienda,Constructora Horizonte SpA,2024,6,Propietario/a,Casa,97.21,2024-07-10,2024-11-23,136,0
+BEN-00486,SRV-2024-0032,Coquimbo,La Serena,II,Mejoramiento de vivienda,Constructora Horizonte SpA,2024,6,Propietario/a,Casa,78.8,2024-07-10,2024-11-23,136,0
+BEN-00487,SRV-2025-0033,La Araucanía,Angol,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2025,6,Propietario/a,Casa,121.31,2025-05-16,2025-07-19,64,0
+BEN-00488,SRV-2025-0033,La Araucanía,Angol,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2025,6,Propietario/a,Departamento,120.75,2025-05-16,2025-07-19,64,0
+BEN-00489,SRV-2025-0033,La Araucanía,Angol,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2025,6,Propietario/a,Departamento,71.15,2025-05-16,2025-07-19,64,0
+BEN-00490,SRV-2025-0033,La Araucanía,Angol,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2025,6,Propietario/a,Casa,124.7,2025-05-16,2025-07-19,64,0
+BEN-00491,SRV-2025-0033,La Araucanía,Angol,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2025,6,Propietario/a,Casa,74.79,2025-05-16,2025-07-19,64,0
+BEN-00492,SRV-2025-0033,La Araucanía,Angol,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2025,6,Propietario/a,Casa,305.63,2025-05-16,2025-07-19,64,0
+BEN-00493,SRV-2026-0034,Valparaíso,Viña del Mar,II,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2022,6,Propietario/a,Casa,125.29,2022-09-18,2022-12-27,100,0
+BEN-00494,SRV-2026-0034,Valparaíso,Viña del Mar,II,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2022,6,Propietario/a,Casa,226.11,2022-09-18,2022-12-27,100,0
+BEN-00495,SRV-2026-0034,Valparaíso,Viña del Mar,II,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2022,6,Propietario/a,Casa,266.21,2022-09-18,2022-12-27,100,0
+BEN-00496,SRV-2026-0034,Valparaíso,Viña del Mar,II,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2022,6,Propietario/a,Casa,243.67,2022-09-18,2022-12-27,100,0
+BEN-00497,SRV-2026-0034,Valparaíso,Viña del Mar,II,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2022,6,Propietario/a,Casa,117.05,2022-09-18,2022-12-27,100,0
+BEN-00498,SRV-2026-0034,Valparaíso,Viña del Mar,II,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2022,6,Propietario/a,Casa,208.79,2022-09-18,2022-12-27,100,0
+BEN-00499,SRV-2022-0035,Metropolitana,Puente Alto,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2022,6,Propietario/a,Casa,171.69,2022-12-20,2023-04-29,130,0
+BEN-00500,SRV-2022-0035,Metropolitana,Puente Alto,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2022,6,Propietario/a,Departamento,130.73,2022-12-20,2023-04-29,130,0
+BEN-00501,SRV-2022-0035,Metropolitana,Puente Alto,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2022,6,Propietario/a,Casa,103.14,2022-12-20,2023-04-29,130,0
+BEN-00502,SRV-2022-0035,Metropolitana,Puente Alto,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2022,6,Propietario/a,Casa,275.57,2022-12-20,2023-04-29,130,0
+BEN-00503,SRV-2022-0035,Metropolitana,Puente Alto,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2022,6,Propietario/a,Casa,73.19,2022-12-20,2023-04-29,130,0
+BEN-00504,SRV-2022-0035,Metropolitana,Puente Alto,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2022,6,Propietario/a,Casa,91.67,2022-12-20,2023-04-29,130,0
+BEN-00505,SRV-2023-0036,Valparaíso,Quilpué,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Propietario/a,Casa,92.0,2026-02-22,2026-05-13,80,0
+BEN-00506,SRV-2023-0036,Valparaíso,Quilpué,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Propietario/a,Casa,99.97,2026-02-22,2026-05-13,80,0
+BEN-00507,SRV-2023-0036,Valparaíso,Quilpué,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Propietario/a,Departamento,103.26,2026-02-22,2026-05-13,80,0
+BEN-00508,SRV-2023-0036,Valparaíso,Quilpué,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Asignatario/a,Casa,155.08,2026-02-22,2026-05-13,80,0
+BEN-00509,SRV-2023-0036,Valparaíso,Quilpué,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Asignatario/a,Casa,69.83,2026-02-22,2026-05-13,80,0
+BEN-00510,SRV-2023-0036,Valparaíso,Quilpué,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Propietario/a,Departamento,169.32,2026-02-22,2026-05-13,80,0
+BEN-00511,SRV-2024-0037,Biobío,Los Ángeles,I,Mejoramiento de bienes comunes,Constructora Valle Central Ltda.,2023,6,Propietario/a,Casa,195.54,2023-12-05,2024-02-19,76,0
+BEN-00512,SRV-2024-0037,Biobío,Los Ángeles,I,Mejoramiento de bienes comunes,Constructora Valle Central Ltda.,2023,6,Asignatario/a,Departamento,122.61,2023-12-05,2024-02-19,76,0
+BEN-00513,SRV-2024-0037,Biobío,Los Ángeles,I,Mejoramiento de bienes comunes,Constructora Valle Central Ltda.,2023,6,Propietario/a,Departamento,140.26,2023-12-05,2024-02-19,76,0
+BEN-00514,SRV-2024-0037,Biobío,Los Ángeles,I,Mejoramiento de bienes comunes,Constructora Valle Central Ltda.,2023,6,Propietario/a,Casa,137.4,2023-12-05,2024-02-19,76,0
+BEN-00515,SRV-2024-0037,Biobío,Los Ángeles,I,Mejoramiento de bienes comunes,Constructora Valle Central Ltda.,2023,6,Asignatario/a,Casa,73.4,2023-12-05,2024-02-19,76,0
+BEN-00516,SRV-2024-0037,Biobío,Los Ángeles,I,Mejoramiento de bienes comunes,Constructora Valle Central Ltda.,2023,6,Propietario/a,Casa,123.52,2023-12-05,2024-02-19,76,0
+BEN-00517,SRV-2025-0038,O'Higgins,San Fernando,II,Ampliación de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Departamento,161.66,2024-02-06,2024-06-14,129,0
+BEN-00518,SRV-2025-0038,O'Higgins,San Fernando,II,Ampliación de vivienda,Constructora Andina Ltda.,2024,6,Ocupante regularizado,Casa,161.03,2024-02-06,2024-06-14,129,0
+BEN-00519,SRV-2025-0038,O'Higgins,San Fernando,II,Ampliación de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Casa,80.11,2024-02-06,2024-06-14,129,0
+BEN-00520,SRV-2025-0038,O'Higgins,San Fernando,II,Ampliación de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Casa,128.45,2024-02-06,2024-06-14,129,0
+BEN-00521,SRV-2025-0038,O'Higgins,San Fernando,II,Ampliación de vivienda,Constructora Andina Ltda.,2024,6,Asignatario/a,Casa,181.02,2024-02-06,2024-06-14,129,0
+BEN-00522,SRV-2025-0038,O'Higgins,San Fernando,II,Ampliación de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Casa,117.98,2024-02-06,2024-06-14,129,0
+BEN-00523,SRV-2026-0039,La Araucanía,Angol,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2024,6,Propietario/a,Departamento,92.19,2024-01-18,2024-03-18,60,0
+BEN-00524,SRV-2026-0039,La Araucanía,Angol,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2024,6,Propietario/a,Departamento,87.48,2024-01-18,2024-03-18,60,0
+BEN-00525,SRV-2026-0039,La Araucanía,Angol,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2024,6,Propietario/a,Departamento,90.37,2024-01-18,2024-03-18,60,0
+BEN-00526,SRV-2026-0039,La Araucanía,Angol,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2024,6,Asignatario/a,Casa,197.29,2024-01-18,2024-03-18,60,0
+BEN-00527,SRV-2026-0039,La Araucanía,Angol,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2024,6,Propietario/a,Casa,102.67,2024-01-18,2024-03-18,60,0
+BEN-00528,SRV-2026-0039,La Araucanía,Angol,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2024,6,Propietario/a,Casa,76.32,2024-01-18,2024-03-18,60,0
+BEN-00529,SRV-2022-0040,Biobío,Talcahuano,II,Acondicionamiento térmico,Gestión Urbana y Obras SpA,2026,6,Propietario/a,Casa,129.86,2026-06-16,2026-09-25,101,0
+BEN-00530,SRV-2022-0040,Biobío,Talcahuano,II,Acondicionamiento térmico,Gestión Urbana y Obras SpA,2026,6,Propietario/a,Casa,98.07,2026-06-16,2026-09-25,101,0
+BEN-00531,SRV-2022-0040,Biobío,Talcahuano,II,Acondicionamiento térmico,Gestión Urbana y Obras SpA,2026,6,Propietario/a,Departamento,120.52,2026-06-16,2026-09-25,101,0
+BEN-00532,SRV-2022-0040,Biobío,Talcahuano,II,Acondicionamiento térmico,Gestión Urbana y Obras SpA,2026,6,Propietario/a,Casa,127.09,2026-06-16,2026-09-25,101,0
+BEN-00533,SRV-2022-0040,Biobío,Talcahuano,II,Acondicionamiento térmico,Gestión Urbana y Obras SpA,2026,6,Ocupante regularizado,Casa,118.6,2026-06-16,2026-09-25,101,0
+BEN-00534,SRV-2022-0040,Biobío,Talcahuano,II,Acondicionamiento térmico,Gestión Urbana y Obras SpA,2026,6,Ocupante regularizado,Casa,221.8,2026-06-16,2026-09-25,101,0
+BEN-00535,SRV-2023-0041,Biobío,Talcahuano,III,Acondicionamiento térmico,Constructora Los Robles Ltda.,2026,6,Propietario/a,Casa,157.96,2026-09-18,2026-12-05,78,0
+BEN-00536,SRV-2023-0041,Biobío,Talcahuano,III,Acondicionamiento térmico,Constructora Los Robles Ltda.,2026,6,Propietario/a,Casa,138.01,2026-09-18,2026-12-05,78,0
+BEN-00537,SRV-2023-0041,Biobío,Talcahuano,III,Acondicionamiento térmico,Constructora Los Robles Ltda.,2026,6,Propietario/a,Departamento,66.99,2026-09-18,2026-12-05,78,0
+BEN-00538,SRV-2023-0041,Biobío,Talcahuano,III,Acondicionamiento térmico,Constructora Los Robles Ltda.,2026,6,Propietario/a,Casa,70.51,2026-09-18,2026-12-05,78,0
+BEN-00539,SRV-2023-0041,Biobío,Talcahuano,III,Acondicionamiento térmico,Constructora Los Robles Ltda.,2026,6,Propietario/a,Casa,186.51,2026-09-18,2026-12-05,78,0
+BEN-00540,SRV-2023-0041,Biobío,Talcahuano,III,Acondicionamiento térmico,Constructora Los Robles Ltda.,2026,6,Propietario/a,Casa,95.67,2026-09-18,2026-12-05,78,0
+BEN-00541,SRV-2024-0042,Biobío,Chillán,II,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Casa,131.94,2024-03-02,2024-07-23,143,0
+BEN-00542,SRV-2024-0042,Biobío,Chillán,II,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Casa,271.45,2024-03-02,2024-07-23,143,0
+BEN-00543,SRV-2024-0042,Biobío,Chillán,II,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Casa,145.8,2024-03-02,2024-07-23,143,0
+BEN-00544,SRV-2024-0042,Biobío,Chillán,II,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Departamento,70.02,2024-03-02,2024-07-23,143,0
+BEN-00545,SRV-2024-0042,Biobío,Chillán,II,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Asignatario/a,Casa,99.81,2024-03-02,2024-07-23,143,0
+BEN-00546,SRV-2024-0042,Biobío,Chillán,II,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Ocupante regularizado,Casa,66.94,2024-03-02,2024-07-23,143,0
+BEN-00547,SRV-2025-0043,La Araucanía,Angol,I,Mejoramiento de vivienda,Soluciones Habitacionales SpA,2025,6,Ocupante regularizado,Casa,87.26,2025-12-13,2026-05-23,161,0
+BEN-00548,SRV-2025-0043,La Araucanía,Angol,I,Mejoramiento de vivienda,Soluciones Habitacionales SpA,2025,6,Propietario/a,Casa,76.09,2025-12-13,2026-05-23,161,0
+BEN-00549,SRV-2025-0043,La Araucanía,Angol,I,Mejoramiento de vivienda,Soluciones Habitacionales SpA,2025,6,Propietario/a,Casa,99.52,2025-12-13,2026-05-23,161,0
+BEN-00550,SRV-2025-0043,La Araucanía,Angol,I,Mejoramiento de vivienda,Soluciones Habitacionales SpA,2025,6,Propietario/a,Casa,163.59,2025-12-13,2026-05-23,161,0
+BEN-00551,SRV-2025-0043,La Araucanía,Angol,I,Mejoramiento de vivienda,Soluciones Habitacionales SpA,2025,6,Asignatario/a,Departamento,108.57,2025-12-13,2026-05-23,161,0
+BEN-00552,SRV-2025-0043,La Araucanía,Angol,I,Mejoramiento de vivienda,Soluciones Habitacionales SpA,2025,6,Propietario/a,Casa,105.06,2025-12-13,2026-05-23,161,0
+BEN-00553,SRV-2026-0044,Metropolitana,Quilicura,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2024,6,Propietario/a,Departamento,157.31,2024-12-07,2025-04-14,128,0
+BEN-00554,SRV-2026-0044,Metropolitana,Quilicura,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2024,6,Propietario/a,Casa,97.81,2024-12-07,2025-04-14,128,0
+BEN-00555,SRV-2026-0044,Metropolitana,Quilicura,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2024,6,Propietario/a,Casa,221.31,2024-12-07,2025-04-14,128,0
+BEN-00556,SRV-2026-0044,Metropolitana,Quilicura,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2024,6,Propietario/a,Departamento,73.36,2024-12-07,2025-04-14,128,0
+BEN-00557,SRV-2026-0044,Metropolitana,Quilicura,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2024,6,Propietario/a,Casa,114.35,2024-12-07,2025-04-14,128,0
+BEN-00558,SRV-2026-0044,Metropolitana,Quilicura,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2024,6,Asignatario/a,Casa,35.0,2024-12-07,2025-04-14,128,0
+BEN-00559,SRV-2022-0045,Coquimbo,La Serena,III,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2025,6,Asignatario/a,Casa,63.15,2025-08-06,2025-12-14,130,0
+BEN-00560,SRV-2022-0045,Coquimbo,La Serena,III,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2025,6,Propietario/a,Departamento,171.67,2025-08-06,2025-12-14,130,0
+BEN-00561,SRV-2022-0045,Coquimbo,La Serena,III,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2025,6,Propietario/a,Departamento,178.15,2025-08-06,2025-12-14,130,0
+BEN-00562,SRV-2022-0045,Coquimbo,La Serena,III,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2025,6,Propietario/a,Casa,130.77,2025-08-06,2025-12-14,130,0
+BEN-00563,SRV-2022-0045,Coquimbo,La Serena,III,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2025,6,Propietario/a,Departamento,59.9,2025-08-06,2025-12-14,130,0
+BEN-00564,SRV-2022-0045,Coquimbo,La Serena,III,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2025,6,Ocupante regularizado,Departamento,114.31,2025-08-06,2025-12-14,130,0
+BEN-00565,SRV-2023-0046,Los Lagos,Castro,I,Mejoramiento de vivienda,Constructora Valle Central Ltda.,2025,6,Propietario/a,Casa,272.18,2025-07-03,2025-09-16,75,0
+BEN-00566,SRV-2023-0046,Los Lagos,Castro,I,Mejoramiento de vivienda,Constructora Valle Central Ltda.,2025,6,Asignatario/a,Casa,106.13,2025-07-03,2025-09-16,75,0
+BEN-00567,SRV-2023-0046,Los Lagos,Castro,I,Mejoramiento de vivienda,Constructora Valle Central Ltda.,2025,6,Propietario/a,Casa,51.46,2025-07-03,2025-09-16,75,0
+BEN-00568,SRV-2023-0046,Los Lagos,Castro,I,Mejoramiento de vivienda,Constructora Valle Central Ltda.,2025,6,Asignatario/a,Departamento,120.09,2025-07-03,2025-09-16,75,0
+BEN-00569,SRV-2023-0046,Los Lagos,Castro,I,Mejoramiento de vivienda,Constructora Valle Central Ltda.,2025,6,Propietario/a,Casa,75.15,2025-07-03,2025-09-16,75,0
+BEN-00570,SRV-2023-0046,Los Lagos,Castro,I,Mejoramiento de vivienda,Constructora Valle Central Ltda.,2025,6,Propietario/a,Casa,97.33,2025-07-03,2025-09-16,75,0
+BEN-00571,SRV-2024-0047,La Araucanía,Angol,IV,Mejoramiento de vivienda,Constructora Andina Ltda.,2025,6,Propietario/a,Casa,118.89,2025-01-16,2025-08-13,209,1
+BEN-00572,SRV-2024-0047,La Araucanía,Angol,IV,Mejoramiento de vivienda,Constructora Andina Ltda.,2025,6,Propietario/a,Departamento,148.73,2025-01-16,2025-08-13,209,1
+BEN-00573,SRV-2024-0047,La Araucanía,Angol,IV,Mejoramiento de vivienda,Constructora Andina Ltda.,2025,6,Propietario/a,Casa,52.41,2025-01-16,2025-08-13,209,1
+BEN-00574,SRV-2024-0047,La Araucanía,Angol,IV,Mejoramiento de vivienda,Constructora Andina Ltda.,2025,6,Asignatario/a,Casa,71.7,2025-01-16,2025-08-13,209,1
+BEN-00575,SRV-2024-0047,La Araucanía,Angol,IV,Mejoramiento de vivienda,Constructora Andina Ltda.,2025,6,Propietario/a,Casa,80.87,2025-01-16,2025-08-13,209,1
+BEN-00576,SRV-2024-0047,La Araucanía,Angol,IV,Mejoramiento de vivienda,Constructora Andina Ltda.,2025,6,Propietario/a,Casa,250.23,2025-01-16,2025-08-13,209,1
+BEN-00577,SRV-2025-0048,Biobío,Talcahuano,III,Acondicionamiento térmico,Constructora Los Robles Ltda.,2024,6,Propietario/a,Casa,180.51,2024-08-04,2024-11-02,90,0
+BEN-00578,SRV-2025-0048,Biobío,Talcahuano,III,Acondicionamiento térmico,Constructora Los Robles Ltda.,2024,6,Ocupante regularizado,Casa,83.78,2024-08-04,2024-11-02,90,0
+BEN-00579,SRV-2025-0048,Biobío,Talcahuano,III,Acondicionamiento térmico,Constructora Los Robles Ltda.,2024,6,Asignatario/a,Casa,86.5,2024-08-04,2024-11-02,90,0
+BEN-00580,SRV-2025-0048,Biobío,Talcahuano,III,Acondicionamiento térmico,Constructora Los Robles Ltda.,2024,6,Asignatario/a,Casa,155.56,2024-08-04,2024-11-02,90,0
+BEN-00581,SRV-2025-0048,Biobío,Talcahuano,III,Acondicionamiento térmico,Constructora Los Robles Ltda.,2024,6,Propietario/a,Casa,94.53,2024-08-04,2024-11-02,90,0
+BEN-00582,SRV-2025-0048,Biobío,Talcahuano,III,Acondicionamiento térmico,Constructora Los Robles Ltda.,2024,6,Propietario/a,Casa,219.75,2024-08-04,2024-11-02,90,0
+BEN-00583,SRV-2026-0049,La Araucanía,Angol,II,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2025,6,Asignatario/a,Departamento,167.48,2025-11-16,2026-03-09,113,0
+BEN-00584,SRV-2026-0049,La Araucanía,Angol,II,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Casa,35.0,2025-11-16,2026-03-09,113,0
+BEN-00585,SRV-2026-0049,La Araucanía,Angol,II,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Casa,62.67,2025-11-16,2026-03-09,113,0
+BEN-00586,SRV-2026-0049,La Araucanía,Angol,II,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Casa,159.81,2025-11-16,2026-03-09,113,0
+BEN-00587,SRV-2026-0049,La Araucanía,Angol,II,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Departamento,179.08,2025-11-16,2026-03-09,113,0
+BEN-00588,SRV-2026-0049,La Araucanía,Angol,II,Ampliación de vivienda,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Departamento,110.36,2025-11-16,2026-03-09,113,0
+BEN-00589,SRV-2022-0050,Biobío,Talcahuano,IV,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2023,6,Ocupante regularizado,Casa,115.42,2023-05-18,2023-08-16,90,0
+BEN-00590,SRV-2022-0050,Biobío,Talcahuano,IV,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2023,6,Asignatario/a,Departamento,81.62,2023-05-18,2023-08-16,90,0
+BEN-00591,SRV-2022-0050,Biobío,Talcahuano,IV,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2023,6,Propietario/a,Casa,110.53,2023-05-18,2023-08-16,90,0
+BEN-00592,SRV-2022-0050,Biobío,Talcahuano,IV,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2023,6,Propietario/a,Departamento,42.93,2023-05-18,2023-08-16,90,0
+BEN-00593,SRV-2022-0050,Biobío,Talcahuano,IV,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2023,6,Asignatario/a,Casa,156.71,2023-05-18,2023-08-16,90,0
+BEN-00594,SRV-2022-0050,Biobío,Talcahuano,IV,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2023,6,Propietario/a,Casa,64.57,2023-05-18,2023-08-16,90,0
+BEN-00595,SRV-2023-0051,Metropolitana,Puente Alto,II,Mejoramiento de vivienda rural,Infraestructura Habitacional SpA,2026,6,Asignatario/a,Departamento,204.63,2026-03-11,2026-06-10,91,0
+BEN-00596,SRV-2023-0051,Metropolitana,Puente Alto,II,Mejoramiento de vivienda rural,Infraestructura Habitacional SpA,2026,6,Propietario/a,Casa,116.65,2026-03-11,2026-06-10,91,0
+BEN-00597,SRV-2023-0051,Metropolitana,Puente Alto,II,Mejoramiento de vivienda rural,Infraestructura Habitacional SpA,2026,6,Propietario/a,Casa,99.44,2026-03-11,2026-06-10,91,0
+BEN-00598,SRV-2023-0051,Metropolitana,Puente Alto,II,Mejoramiento de vivienda rural,Infraestructura Habitacional SpA,2026,6,Asignatario/a,Casa,143.7,2026-03-11,2026-06-10,91,0
+BEN-00599,SRV-2023-0051,Metropolitana,Puente Alto,II,Mejoramiento de vivienda rural,Infraestructura Habitacional SpA,2026,6,Asignatario/a,Casa,81.66,2026-03-11,2026-06-10,91,0
+BEN-00600,SRV-2023-0051,Metropolitana,Puente Alto,II,Mejoramiento de vivienda rural,Infraestructura Habitacional SpA,2026,6,Propietario/a,Departamento,165.57,2026-03-11,2026-06-10,91,0
+BEN-00601,SRV-2024-0052,Valparaíso,Viña del Mar,III,Ampliación de vivienda,Soluciones Habitacionales SpA,2024,6,Propietario/a,Casa,196.17,2024-11-09,2025-03-31,142,0
+BEN-00602,SRV-2024-0052,Valparaíso,Viña del Mar,III,Ampliación de vivienda,Soluciones Habitacionales SpA,2024,6,Asignatario/a,Casa,92.89,2024-11-09,2025-03-31,142,0
+BEN-00603,SRV-2024-0052,Valparaíso,Viña del Mar,III,Ampliación de vivienda,Soluciones Habitacionales SpA,2024,6,Asignatario/a,Casa,95.84,2024-11-09,2025-03-31,142,0
+BEN-00604,SRV-2024-0052,Valparaíso,Viña del Mar,III,Ampliación de vivienda,Soluciones Habitacionales SpA,2024,6,Propietario/a,Casa,176.35,2024-11-09,2025-03-31,142,0
+BEN-00605,SRV-2024-0052,Valparaíso,Viña del Mar,III,Ampliación de vivienda,Soluciones Habitacionales SpA,2024,6,Propietario/a,Casa,126.63,2024-11-09,2025-03-31,142,0
+BEN-00606,SRV-2024-0052,Valparaíso,Viña del Mar,III,Ampliación de vivienda,Soluciones Habitacionales SpA,2024,6,Propietario/a,Casa,63.48,2024-11-09,2025-03-31,142,0
+BEN-00607,SRV-2025-0053,Valparaíso,Villa Alemana,II,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2025,6,Propietario/a,Departamento,119.2,2025-08-06,2025-11-30,116,0
+BEN-00608,SRV-2025-0053,Valparaíso,Villa Alemana,II,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2025,6,Propietario/a,Casa,150.96,2025-08-06,2025-11-30,116,0
+BEN-00609,SRV-2025-0053,Valparaíso,Villa Alemana,II,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2025,6,Asignatario/a,Casa,109.54,2025-08-06,2025-11-30,116,0
+BEN-00610,SRV-2025-0053,Valparaíso,Villa Alemana,II,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2025,6,Propietario/a,Casa,160.04,2025-08-06,2025-11-30,116,0
+BEN-00611,SRV-2025-0053,Valparaíso,Villa Alemana,II,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2025,6,Asignatario/a,Casa,255.38,2025-08-06,2025-11-30,116,0
+BEN-00612,SRV-2025-0053,Valparaíso,Villa Alemana,II,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2025,6,Propietario/a,Casa,222.39,2025-08-06,2025-11-30,116,0
+BEN-00613,SRV-2026-0054,Coquimbo,Ovalle,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2026,6,Ocupante regularizado,Departamento,61.08,2026-01-24,2026-03-26,61,0
+BEN-00614,SRV-2026-0054,Coquimbo,Ovalle,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2026,6,Propietario/a,Casa,123.5,2026-01-24,2026-03-26,61,0
+BEN-00615,SRV-2026-0054,Coquimbo,Ovalle,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2026,6,Propietario/a,Departamento,127.72,2026-01-24,2026-03-26,61,0
+BEN-00616,SRV-2026-0054,Coquimbo,Ovalle,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2026,6,Propietario/a,Casa,173.05,2026-01-24,2026-03-26,61,0
+BEN-00617,SRV-2026-0054,Coquimbo,Ovalle,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2026,6,Asignatario/a,Casa,152.82,2026-01-24,2026-03-26,61,0
+BEN-00618,SRV-2026-0054,Coquimbo,Ovalle,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2026,6,Propietario/a,Casa,110.85,2026-01-24,2026-03-26,61,0
+BEN-00619,SRV-2022-0055,Los Lagos,Puerto Montt,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2024,6,Asignatario/a,Casa,61.19,2024-01-23,2024-07-11,170,0
+BEN-00620,SRV-2022-0055,Los Lagos,Puerto Montt,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2024,6,Propietario/a,Casa,52.91,2024-01-23,2024-07-11,170,0
+BEN-00621,SRV-2022-0055,Los Lagos,Puerto Montt,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2024,6,Propietario/a,Departamento,74.7,2024-01-23,2024-07-11,170,0
+BEN-00622,SRV-2022-0055,Los Lagos,Puerto Montt,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2024,6,Propietario/a,Casa,94.99,2024-01-23,2024-07-11,170,0
+BEN-00623,SRV-2022-0055,Los Lagos,Puerto Montt,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2024,6,Propietario/a,Casa,100.78,2024-01-23,2024-07-11,170,0
+BEN-00624,SRV-2022-0055,Los Lagos,Puerto Montt,III,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2024,6,Ocupante regularizado,Casa,87.89,2024-01-23,2024-07-11,170,0
+BEN-00625,SRV-2023-0056,Valparaíso,Quilpué,IV,Mejoramiento de bienes comunes,Constructora del Pacífico Ltda.,2026,6,Propietario/a,Casa,81.46,2026-09-24,2027-03-16,173,1
+BEN-00626,SRV-2023-0056,Valparaíso,Quilpué,IV,Mejoramiento de bienes comunes,Constructora del Pacífico Ltda.,2026,6,Asignatario/a,Departamento,110.81,2026-09-24,2027-03-16,173,1
+BEN-00627,SRV-2023-0056,Valparaíso,Quilpué,IV,Mejoramiento de bienes comunes,Constructora del Pacífico Ltda.,2026,6,Ocupante regularizado,Casa,183.94,2026-09-24,2027-03-16,173,1
+BEN-00628,SRV-2023-0056,Valparaíso,Quilpué,IV,Mejoramiento de bienes comunes,Constructora del Pacífico Ltda.,2026,6,Propietario/a,Casa,73.98,2026-09-24,2027-03-16,173,1
+BEN-00629,SRV-2023-0056,Valparaíso,Quilpué,IV,Mejoramiento de bienes comunes,Constructora del Pacífico Ltda.,2026,6,Propietario/a,Casa,176.41,2026-09-24,2027-03-16,173,1
+BEN-00630,SRV-2023-0056,Valparaíso,Quilpué,IV,Mejoramiento de bienes comunes,Constructora del Pacífico Ltda.,2026,6,Propietario/a,Casa,118.38,2026-09-24,2027-03-16,173,1
+BEN-00631,SRV-2024-0057,Valparaíso,San Antonio,II,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Propietario/a,Casa,55.48,2026-06-15,2027-02-12,242,1
+BEN-00632,SRV-2024-0057,Valparaíso,San Antonio,II,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Propietario/a,Casa,55.5,2026-06-15,2027-02-12,242,1
+BEN-00633,SRV-2024-0057,Valparaíso,San Antonio,II,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Asignatario/a,Casa,156.53,2026-06-15,2027-02-12,242,1
+BEN-00634,SRV-2024-0057,Valparaíso,San Antonio,II,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Propietario/a,Casa,96.82,2026-06-15,2027-02-12,242,1
+BEN-00635,SRV-2024-0057,Valparaíso,San Antonio,II,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Asignatario/a,Departamento,102.09,2026-06-15,2027-02-12,242,1
+BEN-00636,SRV-2024-0057,Valparaíso,San Antonio,II,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Asignatario/a,Casa,64.63,2026-06-15,2027-02-12,242,1
+BEN-00637,SRV-2025-0058,Metropolitana,Puente Alto,IV,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2023,6,Propietario/a,Casa,209.97,2023-12-23,2024-02-24,63,0
+BEN-00638,SRV-2025-0058,Metropolitana,Puente Alto,IV,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2023,6,Asignatario/a,Departamento,148.3,2023-12-23,2024-02-24,63,0
+BEN-00639,SRV-2025-0058,Metropolitana,Puente Alto,IV,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2023,6,Propietario/a,Casa,220.13,2023-12-23,2024-02-24,63,0
+BEN-00640,SRV-2025-0058,Metropolitana,Puente Alto,IV,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2023,6,Propietario/a,Departamento,74.26,2023-12-23,2024-02-24,63,0
+BEN-00641,SRV-2025-0058,Metropolitana,Puente Alto,IV,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2023,6,Propietario/a,Casa,92.45,2023-12-23,2024-02-24,63,0
+BEN-00642,SRV-2025-0058,Metropolitana,Puente Alto,IV,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2023,6,Ocupante regularizado,Casa,104.08,2023-12-23,2024-02-24,63,0
+BEN-00643,SRV-2026-0059,Metropolitana,San Bernardo,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Casa,121.73,2024-05-08,2024-06-20,43,0
+BEN-00644,SRV-2026-0059,Metropolitana,San Bernardo,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Asignatario/a,Casa,90.35,2024-05-08,2024-06-20,43,0
+BEN-00645,SRV-2026-0059,Metropolitana,San Bernardo,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Departamento,91.44,2024-05-08,2024-06-20,43,0
+BEN-00646,SRV-2026-0059,Metropolitana,San Bernardo,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Asignatario/a,Casa,112.64,2024-05-08,2024-06-20,43,0
+BEN-00647,SRV-2026-0059,Metropolitana,San Bernardo,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Casa,77.6,2024-05-08,2024-06-20,43,0
+BEN-00648,SRV-2026-0059,Metropolitana,San Bernardo,III,Mejoramiento de vivienda,Constructora Andina Ltda.,2024,6,Propietario/a,Departamento,131.01,2024-05-08,2024-06-20,43,0
+BEN-00649,SRV-2022-0060,Metropolitana,Maipú,II,Mejoramiento de vivienda rural,Constructora Los Robles Ltda.,2023,6,Propietario/a,Casa,222.28,2023-03-21,2023-05-29,69,0
+BEN-00650,SRV-2022-0060,Metropolitana,Maipú,II,Mejoramiento de vivienda rural,Constructora Los Robles Ltda.,2023,6,Asignatario/a,Casa,68.99,2023-03-21,2023-05-29,69,0
+BEN-00651,SRV-2022-0060,Metropolitana,Maipú,II,Mejoramiento de vivienda rural,Constructora Los Robles Ltda.,2023,6,Propietario/a,Departamento,226.61,2023-03-21,2023-05-29,69,0
+BEN-00652,SRV-2022-0060,Metropolitana,Maipú,II,Mejoramiento de vivienda rural,Constructora Los Robles Ltda.,2023,6,Propietario/a,Casa,210.93,2023-03-21,2023-05-29,69,0
+BEN-00653,SRV-2022-0060,Metropolitana,Maipú,II,Mejoramiento de vivienda rural,Constructora Los Robles Ltda.,2023,6,Asignatario/a,Casa,43.74,2023-03-21,2023-05-29,69,0
+BEN-00654,SRV-2022-0060,Metropolitana,Maipú,II,Mejoramiento de vivienda rural,Constructora Los Robles Ltda.,2023,6,Asignatario/a,Casa,165.06,2023-03-21,2023-05-29,69,0
+BEN-00655,SRV-2023-0061,Biobío,Chillán,I,Ampliación de vivienda,Constructora Valle Central Ltda.,2023,6,Propietario/a,Casa,139.11,2023-02-07,2023-05-10,92,0
+BEN-00656,SRV-2023-0061,Biobío,Chillán,I,Ampliación de vivienda,Constructora Valle Central Ltda.,2023,6,Propietario/a,Casa,102.43,2023-02-07,2023-05-10,92,0
+BEN-00657,SRV-2023-0061,Biobío,Chillán,I,Ampliación de vivienda,Constructora Valle Central Ltda.,2023,6,Propietario/a,Casa,151.54,2023-02-07,2023-05-10,92,0
+BEN-00658,SRV-2023-0061,Biobío,Chillán,I,Ampliación de vivienda,Constructora Valle Central Ltda.,2023,6,Propietario/a,Departamento,132.88,2023-02-07,2023-05-10,92,0
+BEN-00659,SRV-2023-0061,Biobío,Chillán,I,Ampliación de vivienda,Constructora Valle Central Ltda.,2023,6,Propietario/a,Casa,109.16,2023-02-07,2023-05-10,92,0
+BEN-00660,SRV-2023-0061,Biobío,Chillán,I,Ampliación de vivienda,Constructora Valle Central Ltda.,2023,6,Asignatario/a,Casa,98.57,2023-02-07,2023-05-10,92,0
+BEN-00661,SRV-2024-0062,Biobío,Los Ángeles,II,Mejoramiento de vivienda,Obras y Vivienda Chile SpA,2026,6,Propietario/a,Casa,124.82,2026-09-12,2026-11-11,60,0
+BEN-00662,SRV-2024-0062,Biobío,Los Ángeles,II,Mejoramiento de vivienda,Obras y Vivienda Chile SpA,2026,6,Propietario/a,Casa,74.97,2026-09-12,2026-11-11,60,0
+BEN-00663,SRV-2024-0062,Biobío,Los Ángeles,II,Mejoramiento de vivienda,Obras y Vivienda Chile SpA,2026,6,Propietario/a,Casa,143.75,2026-09-12,2026-11-11,60,0
+BEN-00664,SRV-2024-0062,Biobío,Los Ángeles,II,Mejoramiento de vivienda,Obras y Vivienda Chile SpA,2026,6,Propietario/a,Casa,103.29,2026-09-12,2026-11-11,60,0
+BEN-00665,SRV-2024-0062,Biobío,Los Ángeles,II,Mejoramiento de vivienda,Obras y Vivienda Chile SpA,2026,6,Asignatario/a,Departamento,205.26,2026-09-12,2026-11-11,60,0
+BEN-00666,SRV-2024-0062,Biobío,Los Ángeles,II,Mejoramiento de vivienda,Obras y Vivienda Chile SpA,2026,6,Propietario/a,Casa,60.07,2026-09-12,2026-11-11,60,0
+BEN-00667,SRV-2025-0063,Biobío,Concepción,III,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2023,6,Propietario/a,Departamento,111.71,2023-10-03,2023-11-28,56,0
+BEN-00668,SRV-2025-0063,Biobío,Concepción,III,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2023,6,Propietario/a,Casa,145.36,2023-10-03,2023-11-28,56,0
+BEN-00669,SRV-2025-0063,Biobío,Concepción,III,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2023,6,Asignatario/a,Casa,68.51,2023-10-03,2023-11-28,56,0
+BEN-00670,SRV-2025-0063,Biobío,Concepción,III,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2023,6,Ocupante regularizado,Casa,329.65,2023-10-03,2023-11-28,56,0
+BEN-00671,SRV-2025-0063,Biobío,Concepción,III,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2023,6,Propietario/a,Casa,139.41,2023-10-03,2023-11-28,56,0
+BEN-00672,SRV-2025-0063,Biobío,Concepción,III,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2023,6,Propietario/a,Casa,101.0,2023-10-03,2023-11-28,56,0
+BEN-00673,SRV-2026-0064,Valparaíso,Quilpué,IV,Mejoramiento de bienes comunes,Edifica Nacional SpA,2025,6,Propietario/a,Departamento,155.56,2025-08-20,2026-02-04,168,0
+BEN-00674,SRV-2026-0064,Valparaíso,Quilpué,IV,Mejoramiento de bienes comunes,Edifica Nacional SpA,2025,6,Asignatario/a,Casa,85.51,2025-08-20,2026-02-04,168,0
+BEN-00675,SRV-2026-0064,Valparaíso,Quilpué,IV,Mejoramiento de bienes comunes,Edifica Nacional SpA,2025,6,Asignatario/a,Casa,148.63,2025-08-20,2026-02-04,168,0
+BEN-00676,SRV-2026-0064,Valparaíso,Quilpué,IV,Mejoramiento de bienes comunes,Edifica Nacional SpA,2025,6,Propietario/a,Casa,76.85,2025-08-20,2026-02-04,168,0
+BEN-00677,SRV-2026-0064,Valparaíso,Quilpué,IV,Mejoramiento de bienes comunes,Edifica Nacional SpA,2025,6,Propietario/a,Casa,248.51,2025-08-20,2026-02-04,168,0
+BEN-00678,SRV-2026-0064,Valparaíso,Quilpué,IV,Mejoramiento de bienes comunes,Edifica Nacional SpA,2025,6,Propietario/a,Casa,133.89,2025-08-20,2026-02-04,168,0
+BEN-00679,SRV-2022-0065,Valparaíso,Viña del Mar,I,Mejoramiento de bienes comunes,Obras y Vivienda Chile SpA,2025,6,Propietario/a,Casa,71.6,2025-08-15,2025-11-21,98,0
+BEN-00680,SRV-2022-0065,Valparaíso,Viña del Mar,I,Mejoramiento de bienes comunes,Obras y Vivienda Chile SpA,2025,6,Propietario/a,Casa,137.49,2025-08-15,2025-11-21,98,0
+BEN-00681,SRV-2022-0065,Valparaíso,Viña del Mar,I,Mejoramiento de bienes comunes,Obras y Vivienda Chile SpA,2025,6,Propietario/a,Casa,96.96,2025-08-15,2025-11-21,98,0
+BEN-00682,SRV-2022-0065,Valparaíso,Viña del Mar,I,Mejoramiento de bienes comunes,Obras y Vivienda Chile SpA,2025,6,Ocupante regularizado,Casa,168.29,2025-08-15,2025-11-21,98,0
+BEN-00683,SRV-2022-0065,Valparaíso,Viña del Mar,I,Mejoramiento de bienes comunes,Obras y Vivienda Chile SpA,2025,6,Asignatario/a,Casa,91.01,2025-08-15,2025-11-21,98,0
+BEN-00684,SRV-2022-0065,Valparaíso,Viña del Mar,I,Mejoramiento de bienes comunes,Obras y Vivienda Chile SpA,2025,6,Asignatario/a,Casa,66.85,2025-08-15,2025-11-21,98,0
+BEN-00685,SRV-2023-0066,Biobío,Chillán,IV,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2024,6,Propietario/a,Casa,79.11,2024-08-21,2024-10-28,68,0
+BEN-00686,SRV-2023-0066,Biobío,Chillán,IV,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2024,6,Propietario/a,Casa,131.29,2024-08-21,2024-10-28,68,0
+BEN-00687,SRV-2023-0066,Biobío,Chillán,IV,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2024,6,Asignatario/a,Departamento,50.87,2024-08-21,2024-10-28,68,0
+BEN-00688,SRV-2023-0066,Biobío,Chillán,IV,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2024,6,Asignatario/a,Casa,102.4,2024-08-21,2024-10-28,68,0
+BEN-00689,SRV-2023-0066,Biobío,Chillán,IV,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2024,6,Propietario/a,Departamento,60.26,2024-08-21,2024-10-28,68,0
+BEN-00690,SRV-2023-0066,Biobío,Chillán,IV,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2024,6,Propietario/a,Casa,120.67,2024-08-21,2024-10-28,68,0
+BEN-00691,SRV-2024-0067,Metropolitana,San Bernardo,II,Mejoramiento de vivienda rural,Obras y Vivienda Chile SpA,2023,6,Propietario/a,Departamento,59.12,2023-05-16,2023-08-18,94,0
+BEN-00692,SRV-2024-0067,Metropolitana,San Bernardo,II,Mejoramiento de vivienda rural,Obras y Vivienda Chile SpA,2023,6,Propietario/a,Casa,48.1,2023-05-16,2023-08-18,94,0
+BEN-00693,SRV-2024-0067,Metropolitana,San Bernardo,II,Mejoramiento de vivienda rural,Obras y Vivienda Chile SpA,2023,6,Propietario/a,Departamento,161.4,2023-05-16,2023-08-18,94,0
+BEN-00694,SRV-2024-0067,Metropolitana,San Bernardo,II,Mejoramiento de vivienda rural,Obras y Vivienda Chile SpA,2023,6,Asignatario/a,Casa,40.74,2023-05-16,2023-08-18,94,0
+BEN-00695,SRV-2024-0067,Metropolitana,San Bernardo,II,Mejoramiento de vivienda rural,Obras y Vivienda Chile SpA,2023,6,Propietario/a,Casa,115.78,2023-05-16,2023-08-18,94,0
+BEN-00696,SRV-2024-0067,Metropolitana,San Bernardo,II,Mejoramiento de vivienda rural,Obras y Vivienda Chile SpA,2023,6,Propietario/a,Casa,114.4,2023-05-16,2023-08-18,94,0
+BEN-00697,SRV-2025-0068,Metropolitana,Peñalolén,I,Acondicionamiento térmico,Infraestructura Habitacional SpA,2025,6,Propietario/a,Departamento,148.16,2025-11-12,2026-01-08,57,0
+BEN-00698,SRV-2025-0068,Metropolitana,Peñalolén,I,Acondicionamiento térmico,Infraestructura Habitacional SpA,2025,6,Propietario/a,Casa,83.36,2025-11-12,2026-01-08,57,0
+BEN-00699,SRV-2025-0068,Metropolitana,Peñalolén,I,Acondicionamiento térmico,Infraestructura Habitacional SpA,2025,6,Propietario/a,Casa,274.67,2025-11-12,2026-01-08,57,0
+BEN-00700,SRV-2025-0068,Metropolitana,Peñalolén,I,Acondicionamiento térmico,Infraestructura Habitacional SpA,2025,6,Propietario/a,Casa,138.86,2025-11-12,2026-01-08,57,0
+BEN-00701,SRV-2025-0068,Metropolitana,Peñalolén,I,Acondicionamiento térmico,Infraestructura Habitacional SpA,2025,6,Propietario/a,Casa,50.54,2025-11-12,2026-01-08,57,0
+BEN-00702,SRV-2025-0068,Metropolitana,Peñalolén,I,Acondicionamiento térmico,Infraestructura Habitacional SpA,2025,6,Asignatario/a,Departamento,186.28,2025-11-12,2026-01-08,57,0
+BEN-00703,SRV-2026-0069,Los Lagos,Osorno,II,Acondicionamiento térmico,Soluciones Habitacionales SpA,2024,6,Propietario/a,Casa,106.93,2024-06-01,2024-08-08,68,0
+BEN-00704,SRV-2026-0069,Los Lagos,Osorno,II,Acondicionamiento térmico,Soluciones Habitacionales SpA,2024,6,Propietario/a,Casa,103.09,2024-06-01,2024-08-08,68,0
+BEN-00705,SRV-2026-0069,Los Lagos,Osorno,II,Acondicionamiento térmico,Soluciones Habitacionales SpA,2024,6,Asignatario/a,Casa,277.04,2024-06-01,2024-08-08,68,0
+BEN-00706,SRV-2026-0069,Los Lagos,Osorno,II,Acondicionamiento térmico,Soluciones Habitacionales SpA,2024,6,Propietario/a,Departamento,209.21,2024-06-01,2024-08-08,68,0
+BEN-00707,SRV-2026-0069,Los Lagos,Osorno,II,Acondicionamiento térmico,Soluciones Habitacionales SpA,2024,6,Propietario/a,Casa,167.97,2024-06-01,2024-08-08,68,0
+BEN-00708,SRV-2026-0069,Los Lagos,Osorno,II,Acondicionamiento térmico,Soluciones Habitacionales SpA,2024,6,Propietario/a,Casa,107.22,2024-06-01,2024-08-08,68,0
+BEN-00709,SRV-2022-0070,La Araucanía,Angol,I,Mejoramiento de vivienda,Constructora Horizonte SpA,2023,6,Propietario/a,Departamento,132.42,2023-07-14,2023-11-02,111,0
+BEN-00710,SRV-2022-0070,La Araucanía,Angol,I,Mejoramiento de vivienda,Constructora Horizonte SpA,2023,6,Propietario/a,Casa,173.67,2023-07-14,2023-11-02,111,0
+BEN-00711,SRV-2022-0070,La Araucanía,Angol,I,Mejoramiento de vivienda,Constructora Horizonte SpA,2023,6,Asignatario/a,Casa,67.24,2023-07-14,2023-11-02,111,0
+BEN-00712,SRV-2022-0070,La Araucanía,Angol,I,Mejoramiento de vivienda,Constructora Horizonte SpA,2023,6,Propietario/a,Departamento,139.03,2023-07-14,2023-11-02,111,0
+BEN-00713,SRV-2022-0070,La Araucanía,Angol,I,Mejoramiento de vivienda,Constructora Horizonte SpA,2023,6,Propietario/a,Casa,154.01,2023-07-14,2023-11-02,111,0
+BEN-00714,SRV-2022-0070,La Araucanía,Angol,I,Mejoramiento de vivienda,Constructora Horizonte SpA,2023,6,Propietario/a,Casa,75.14,2023-07-14,2023-11-02,111,0
+BEN-00715,SRV-2023-0071,Biobío,Los Ángeles,IV,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Casa,107.19,2025-02-10,2025-10-27,259,1
+BEN-00716,SRV-2023-0071,Biobío,Los Ángeles,IV,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2025,6,Asignatario/a,Casa,162.17,2025-02-10,2025-10-27,259,1
+BEN-00717,SRV-2023-0071,Biobío,Los Ángeles,IV,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Casa,81.72,2025-02-10,2025-10-27,259,1
+BEN-00718,SRV-2023-0071,Biobío,Los Ángeles,IV,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2025,6,Asignatario/a,Casa,49.29,2025-02-10,2025-10-27,259,1
+BEN-00719,SRV-2023-0071,Biobío,Los Ángeles,IV,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Casa,109.6,2025-02-10,2025-10-27,259,1
+BEN-00720,SRV-2023-0071,Biobío,Los Ángeles,IV,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2025,6,Asignatario/a,Casa,84.28,2025-02-10,2025-10-27,259,1
+BEN-00721,SRV-2024-0072,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Edifica Nacional SpA,2026,6,Propietario/a,Casa,121.13,2026-09-05,2026-11-14,70,0
+BEN-00722,SRV-2024-0072,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Edifica Nacional SpA,2026,6,Asignatario/a,Departamento,110.01,2026-09-05,2026-11-14,70,0
+BEN-00723,SRV-2024-0072,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Edifica Nacional SpA,2026,6,Propietario/a,Casa,148.3,2026-09-05,2026-11-14,70,0
+BEN-00724,SRV-2024-0072,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Edifica Nacional SpA,2026,6,Propietario/a,Casa,133.46,2026-09-05,2026-11-14,70,0
+BEN-00725,SRV-2024-0072,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Edifica Nacional SpA,2026,6,Propietario/a,Casa,254.93,2026-09-05,2026-11-14,70,0
+BEN-00726,SRV-2024-0072,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Edifica Nacional SpA,2026,6,Propietario/a,Departamento,117.78,2026-09-05,2026-11-14,70,0
+BEN-00727,SRV-2025-0073,O'Higgins,Rancagua,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,6,Propietario/a,Casa,99.6,2024-03-13,2024-08-30,170,1
+BEN-00728,SRV-2025-0073,O'Higgins,Rancagua,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,6,Asignatario/a,Casa,171.14,2024-03-13,2024-08-30,170,1
+BEN-00729,SRV-2025-0073,O'Higgins,Rancagua,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,6,Asignatario/a,Departamento,57.08,2024-03-13,2024-08-30,170,1
+BEN-00730,SRV-2025-0073,O'Higgins,Rancagua,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,6,Propietario/a,Casa,171.74,2024-03-13,2024-08-30,170,1
+BEN-00731,SRV-2025-0073,O'Higgins,Rancagua,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,6,Asignatario/a,Departamento,93.98,2024-03-13,2024-08-30,170,1
+BEN-00732,SRV-2025-0073,O'Higgins,Rancagua,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,6,Propietario/a,Casa,119.59,2024-03-13,2024-08-30,170,1
+BEN-00733,SRV-2026-0074,Biobío,Talcahuano,III,Acondicionamiento térmico,Edifica Nacional SpA,2024,6,Asignatario/a,Casa,79.81,2024-02-05,2024-07-19,165,0
+BEN-00734,SRV-2026-0074,Biobío,Talcahuano,III,Acondicionamiento térmico,Edifica Nacional SpA,2024,6,Ocupante regularizado,Casa,104.81,2024-02-05,2024-07-19,165,0
+BEN-00735,SRV-2026-0074,Biobío,Talcahuano,III,Acondicionamiento térmico,Edifica Nacional SpA,2024,6,Propietario/a,Departamento,109.36,2024-02-05,2024-07-19,165,0
+BEN-00736,SRV-2026-0074,Biobío,Talcahuano,III,Acondicionamiento térmico,Edifica Nacional SpA,2024,6,Asignatario/a,Casa,112.59,2024-02-05,2024-07-19,165,0
+BEN-00737,SRV-2026-0074,Biobío,Talcahuano,III,Acondicionamiento térmico,Edifica Nacional SpA,2024,6,Ocupante regularizado,Casa,95.75,2024-02-05,2024-07-19,165,0
+BEN-00738,SRV-2026-0074,Biobío,Talcahuano,III,Acondicionamiento térmico,Edifica Nacional SpA,2024,6,Asignatario/a,Casa,73.66,2024-02-05,2024-07-19,165,0
+BEN-00739,SRV-2022-0075,Coquimbo,Coquimbo,I,Mejoramiento de bienes comunes,Constructora Horizonte SpA,2025,6,Asignatario/a,Casa,223.43,2025-04-12,2025-07-03,82,0
+BEN-00740,SRV-2022-0075,Coquimbo,Coquimbo,I,Mejoramiento de bienes comunes,Constructora Horizonte SpA,2025,6,Propietario/a,Casa,74.75,2025-04-12,2025-07-03,82,0
+BEN-00741,SRV-2022-0075,Coquimbo,Coquimbo,I,Mejoramiento de bienes comunes,Constructora Horizonte SpA,2025,6,Propietario/a,Casa,147.61,2025-04-12,2025-07-03,82,0
+BEN-00742,SRV-2022-0075,Coquimbo,Coquimbo,I,Mejoramiento de bienes comunes,Constructora Horizonte SpA,2025,6,Asignatario/a,Casa,140.21,2025-04-12,2025-07-03,82,0
+BEN-00743,SRV-2022-0075,Coquimbo,Coquimbo,I,Mejoramiento de bienes comunes,Constructora Horizonte SpA,2025,6,Propietario/a,Casa,128.71,2025-04-12,2025-07-03,82,0
+BEN-00744,SRV-2022-0075,Coquimbo,Coquimbo,I,Mejoramiento de bienes comunes,Constructora Horizonte SpA,2025,6,Propietario/a,Casa,169.08,2025-04-12,2025-07-03,82,0
+BEN-00745,SRV-2023-0076,Valparaíso,Valparaíso,II,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Casa,108.88,2025-12-23,2026-03-25,92,0
+BEN-00746,SRV-2023-0076,Valparaíso,Valparaíso,II,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Departamento,188.68,2025-12-23,2026-03-25,92,0
+BEN-00747,SRV-2023-0076,Valparaíso,Valparaíso,II,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Casa,136.53,2025-12-23,2026-03-25,92,0
+BEN-00748,SRV-2023-0076,Valparaíso,Valparaíso,II,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Casa,147.24,2025-12-23,2026-03-25,92,0
+BEN-00749,SRV-2023-0076,Valparaíso,Valparaíso,II,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Casa,130.54,2025-12-23,2026-03-25,92,0
+BEN-00750,SRV-2023-0076,Valparaíso,Valparaíso,II,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Casa,217.58,2025-12-23,2026-03-25,92,0
+BEN-00751,SRV-2024-0077,Coquimbo,Coquimbo,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2023,6,Ocupante regularizado,Departamento,68.76,2023-02-11,2023-03-30,47,0
+BEN-00752,SRV-2024-0077,Coquimbo,Coquimbo,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2023,6,Propietario/a,Casa,117.82,2023-02-11,2023-03-30,47,0
+BEN-00753,SRV-2024-0077,Coquimbo,Coquimbo,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2023,6,Asignatario/a,Casa,87.95,2023-02-11,2023-03-30,47,0
+BEN-00754,SRV-2024-0077,Coquimbo,Coquimbo,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2023,6,Propietario/a,Casa,91.72,2023-02-11,2023-03-30,47,0
+BEN-00755,SRV-2024-0077,Coquimbo,Coquimbo,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2023,6,Propietario/a,Casa,118.29,2023-02-11,2023-03-30,47,0
+BEN-00756,SRV-2024-0077,Coquimbo,Coquimbo,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2023,6,Propietario/a,Casa,123.74,2023-02-11,2023-03-30,47,0
+BEN-00757,SRV-2025-0078,Biobío,Los Ángeles,II,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2022,6,Propietario/a,Departamento,110.16,2022-03-07,2022-07-08,123,0
+BEN-00758,SRV-2025-0078,Biobío,Los Ángeles,II,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2022,6,Asignatario/a,Casa,250.61,2022-03-07,2022-07-08,123,0
+BEN-00759,SRV-2025-0078,Biobío,Los Ángeles,II,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2022,6,Propietario/a,Departamento,78.86,2022-03-07,2022-07-08,123,0
+BEN-00760,SRV-2025-0078,Biobío,Los Ángeles,II,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2022,6,Asignatario/a,Casa,196.32,2022-03-07,2022-07-08,123,0
+BEN-00761,SRV-2025-0078,Biobío,Los Ángeles,II,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2022,6,Propietario/a,Casa,121.07,2022-03-07,2022-07-08,123,0
+BEN-00762,SRV-2025-0078,Biobío,Los Ángeles,II,Acondicionamiento térmico,Constructora del Pacífico Ltda.,2022,6,Propietario/a,Casa,155.57,2022-03-07,2022-07-08,123,0
+BEN-00763,SRV-2026-0079,La Araucanía,Villarrica,I,Mejoramiento de vivienda rural,Constructora Nuevo Sur Ltda.,2025,6,Asignatario/a,Departamento,87.2,2025-11-02,2026-01-03,62,0
+BEN-00764,SRV-2026-0079,La Araucanía,Villarrica,I,Mejoramiento de vivienda rural,Constructora Nuevo Sur Ltda.,2025,6,Propietario/a,Casa,78.88,2025-11-02,2026-01-03,62,0
+BEN-00765,SRV-2026-0079,La Araucanía,Villarrica,I,Mejoramiento de vivienda rural,Constructora Nuevo Sur Ltda.,2025,6,Propietario/a,Departamento,77.45,2025-11-02,2026-01-03,62,0
+BEN-00766,SRV-2026-0079,La Araucanía,Villarrica,I,Mejoramiento de vivienda rural,Constructora Nuevo Sur Ltda.,2025,6,Propietario/a,Casa,62.61,2025-11-02,2026-01-03,62,0
+BEN-00767,SRV-2026-0079,La Araucanía,Villarrica,I,Mejoramiento de vivienda rural,Constructora Nuevo Sur Ltda.,2025,6,Propietario/a,Casa,57.22,2025-11-02,2026-01-03,62,0
+BEN-00768,SRV-2026-0079,La Araucanía,Villarrica,I,Mejoramiento de vivienda rural,Constructora Nuevo Sur Ltda.,2025,6,Propietario/a,Casa,186.05,2025-11-02,2026-01-03,62,0
+BEN-00769,SRV-2022-0080,Valparaíso,Valparaíso,II,Mejoramiento de vivienda,Infraestructura Habitacional SpA,2024,6,Ocupante regularizado,Casa,179.03,2024-11-02,2025-01-21,80,0
+BEN-00770,SRV-2022-0080,Valparaíso,Valparaíso,II,Mejoramiento de vivienda,Infraestructura Habitacional SpA,2024,6,Propietario/a,Casa,150.42,2024-11-02,2025-01-21,80,0
+BEN-00771,SRV-2022-0080,Valparaíso,Valparaíso,II,Mejoramiento de vivienda,Infraestructura Habitacional SpA,2024,6,Propietario/a,Casa,138.05,2024-11-02,2025-01-21,80,0
+BEN-00772,SRV-2022-0080,Valparaíso,Valparaíso,II,Mejoramiento de vivienda,Infraestructura Habitacional SpA,2024,6,Ocupante regularizado,Departamento,163.43,2024-11-02,2025-01-21,80,0
+BEN-00773,SRV-2022-0080,Valparaíso,Valparaíso,II,Mejoramiento de vivienda,Infraestructura Habitacional SpA,2024,6,Propietario/a,Casa,88.83,2024-11-02,2025-01-21,80,0
+BEN-00774,SRV-2022-0080,Valparaíso,Valparaíso,II,Mejoramiento de vivienda,Infraestructura Habitacional SpA,2024,6,Propietario/a,Departamento,92.15,2024-11-02,2025-01-21,80,0
+BEN-00775,SRV-2023-0081,Coquimbo,Coquimbo,III,Mejoramiento de vivienda,Edifica Nacional SpA,2024,6,Propietario/a,Departamento,80.55,2024-05-09,2024-07-05,57,0
+BEN-00776,SRV-2023-0081,Coquimbo,Coquimbo,III,Mejoramiento de vivienda,Edifica Nacional SpA,2024,6,Asignatario/a,Departamento,150.96,2024-05-09,2024-07-05,57,0
+BEN-00777,SRV-2023-0081,Coquimbo,Coquimbo,III,Mejoramiento de vivienda,Edifica Nacional SpA,2024,6,Propietario/a,Casa,198.25,2024-05-09,2024-07-05,57,0
+BEN-00778,SRV-2023-0081,Coquimbo,Coquimbo,III,Mejoramiento de vivienda,Edifica Nacional SpA,2024,6,Propietario/a,Casa,154.93,2024-05-09,2024-07-05,57,0
+BEN-00779,SRV-2023-0081,Coquimbo,Coquimbo,III,Mejoramiento de vivienda,Edifica Nacional SpA,2024,6,Ocupante regularizado,Casa,70.71,2024-05-09,2024-07-05,57,0
+BEN-00780,SRV-2023-0081,Coquimbo,Coquimbo,III,Mejoramiento de vivienda,Edifica Nacional SpA,2024,6,Propietario/a,Casa,103.99,2024-05-09,2024-07-05,57,0
+BEN-00781,SRV-2024-0082,La Araucanía,Angol,II,Acondicionamiento térmico,Constructora Valle Central Ltda.,2025,6,Propietario/a,Casa,120.76,2025-01-12,2025-04-26,104,0
+BEN-00782,SRV-2024-0082,La Araucanía,Angol,II,Acondicionamiento térmico,Constructora Valle Central Ltda.,2025,6,Propietario/a,Casa,187.94,2025-01-12,2025-04-26,104,0
+BEN-00783,SRV-2024-0082,La Araucanía,Angol,II,Acondicionamiento térmico,Constructora Valle Central Ltda.,2025,6,Asignatario/a,Casa,115.01,2025-01-12,2025-04-26,104,0
+BEN-00784,SRV-2024-0082,La Araucanía,Angol,II,Acondicionamiento térmico,Constructora Valle Central Ltda.,2025,6,Propietario/a,Departamento,114.09,2025-01-12,2025-04-26,104,0
+BEN-00785,SRV-2024-0082,La Araucanía,Angol,II,Acondicionamiento térmico,Constructora Valle Central Ltda.,2025,6,Propietario/a,Casa,97.85,2025-01-12,2025-04-26,104,0
+BEN-00786,SRV-2024-0082,La Araucanía,Angol,II,Acondicionamiento térmico,Constructora Valle Central Ltda.,2025,6,Propietario/a,Casa,233.68,2025-01-12,2025-04-26,104,0
+BEN-00787,SRV-2025-0083,Valparaíso,Valparaíso,I,Mejoramiento de vivienda rural,Soluciones Habitacionales SpA,2025,6,Propietario/a,Departamento,111.23,2025-11-17,2026-03-05,108,0
+BEN-00788,SRV-2025-0083,Valparaíso,Valparaíso,I,Mejoramiento de vivienda rural,Soluciones Habitacionales SpA,2025,6,Propietario/a,Casa,75.65,2025-11-17,2026-03-05,108,0
+BEN-00789,SRV-2025-0083,Valparaíso,Valparaíso,I,Mejoramiento de vivienda rural,Soluciones Habitacionales SpA,2025,6,Propietario/a,Departamento,80.14,2025-11-17,2026-03-05,108,0
+BEN-00790,SRV-2025-0083,Valparaíso,Valparaíso,I,Mejoramiento de vivienda rural,Soluciones Habitacionales SpA,2025,6,Asignatario/a,Casa,145.58,2025-11-17,2026-03-05,108,0
+BEN-00791,SRV-2025-0083,Valparaíso,Valparaíso,I,Mejoramiento de vivienda rural,Soluciones Habitacionales SpA,2025,6,Propietario/a,Casa,123.24,2025-11-17,2026-03-05,108,0
+BEN-00792,SRV-2025-0083,Valparaíso,Valparaíso,I,Mejoramiento de vivienda rural,Soluciones Habitacionales SpA,2025,6,Propietario/a,Casa,133.52,2025-11-17,2026-03-05,108,0
+BEN-00793,SRV-2026-0084,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Asignatario/a,Departamento,35.0,2026-11-17,2027-03-13,116,0
+BEN-00794,SRV-2026-0084,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Asignatario/a,Casa,53.83,2026-11-17,2027-03-13,116,0
+BEN-00795,SRV-2026-0084,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Propietario/a,Departamento,119.22,2026-11-17,2027-03-13,116,0
+BEN-00796,SRV-2026-0084,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Asignatario/a,Casa,134.39,2026-11-17,2027-03-13,116,0
+BEN-00797,SRV-2026-0084,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Propietario/a,Casa,61.93,2026-11-17,2027-03-13,116,0
+BEN-00798,SRV-2026-0084,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Constructora Los Robles Ltda.,2026,6,Asignatario/a,Departamento,138.17,2026-11-17,2027-03-13,116,0
+BEN-00799,SRV-2022-0085,Valparaíso,San Antonio,II,Acondicionamiento térmico,Gestión Urbana y Obras SpA,2024,6,Asignatario/a,Departamento,101.09,2024-06-15,2024-09-24,101,0
+BEN-00800,SRV-2022-0085,Valparaíso,San Antonio,II,Acondicionamiento térmico,Gestión Urbana y Obras SpA,2024,6,Propietario/a,Casa,59.31,2024-06-15,2024-09-24,101,0
+BEN-00801,SRV-2022-0085,Valparaíso,San Antonio,II,Acondicionamiento térmico,Gestión Urbana y Obras SpA,2024,6,Asignatario/a,Casa,133.83,2024-06-15,2024-09-24,101,0
+BEN-00802,SRV-2022-0085,Valparaíso,San Antonio,II,Acondicionamiento térmico,Gestión Urbana y Obras SpA,2024,6,Asignatario/a,Casa,86.68,2024-06-15,2024-09-24,101,0
+BEN-00803,SRV-2022-0085,Valparaíso,San Antonio,II,Acondicionamiento térmico,Gestión Urbana y Obras SpA,2024,6,Propietario/a,Casa,188.04,2024-06-15,2024-09-24,101,0
+BEN-00804,SRV-2022-0085,Valparaíso,San Antonio,II,Acondicionamiento térmico,Gestión Urbana y Obras SpA,2024,6,Propietario/a,Casa,114.59,2024-06-15,2024-09-24,101,0
+BEN-00805,SRV-2023-0086,Coquimbo,La Serena,I,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Propietario/a,Casa,59.12,2025-10-22,2025-12-19,58,0
+BEN-00806,SRV-2023-0086,Coquimbo,La Serena,I,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Asignatario/a,Casa,149.99,2025-10-22,2025-12-19,58,0
+BEN-00807,SRV-2023-0086,Coquimbo,La Serena,I,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Asignatario/a,Casa,214.78,2025-10-22,2025-12-19,58,0
+BEN-00808,SRV-2023-0086,Coquimbo,La Serena,I,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Propietario/a,Casa,110.29,2025-10-22,2025-12-19,58,0
+BEN-00809,SRV-2023-0086,Coquimbo,La Serena,I,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Propietario/a,Casa,195.86,2025-10-22,2025-12-19,58,0
+BEN-00810,SRV-2023-0086,Coquimbo,La Serena,I,Mejoramiento de vivienda,Edifica Nacional SpA,2025,6,Propietario/a,Casa,53.0,2025-10-22,2025-12-19,58,0
+BEN-00811,SRV-2024-0087,O'Higgins,San Fernando,III,Acondicionamiento térmico,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Casa,108.45,2025-09-14,2025-10-30,46,0
+BEN-00812,SRV-2024-0087,O'Higgins,San Fernando,III,Acondicionamiento térmico,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Casa,79.32,2025-09-14,2025-10-30,46,0
+BEN-00813,SRV-2024-0087,O'Higgins,San Fernando,III,Acondicionamiento térmico,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Casa,161.3,2025-09-14,2025-10-30,46,0
+BEN-00814,SRV-2024-0087,O'Higgins,San Fernando,III,Acondicionamiento térmico,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Casa,50.26,2025-09-14,2025-10-30,46,0
+BEN-00815,SRV-2024-0087,O'Higgins,San Fernando,III,Acondicionamiento térmico,Proyectos y Montajes del Sur SpA,2025,6,Ocupante regularizado,Casa,113.92,2025-09-14,2025-10-30,46,0
+BEN-00816,SRV-2024-0087,O'Higgins,San Fernando,III,Acondicionamiento térmico,Proyectos y Montajes del Sur SpA,2025,6,Propietario/a,Casa,152.38,2025-09-14,2025-10-30,46,0
+BEN-00817,SRV-2025-0088,Valparaíso,San Antonio,I,Mejoramiento de vivienda rural,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Casa,97.41,2025-07-13,2025-12-18,158,1
+BEN-00818,SRV-2025-0088,Valparaíso,San Antonio,I,Mejoramiento de vivienda rural,Gestión Urbana y Obras SpA,2025,6,Asignatario/a,Casa,117.96,2025-07-13,2025-12-18,158,1
+BEN-00819,SRV-2025-0088,Valparaíso,San Antonio,I,Mejoramiento de vivienda rural,Gestión Urbana y Obras SpA,2025,6,Ocupante regularizado,Casa,149.83,2025-07-13,2025-12-18,158,1
+BEN-00820,SRV-2025-0088,Valparaíso,San Antonio,I,Mejoramiento de vivienda rural,Gestión Urbana y Obras SpA,2025,6,Asignatario/a,Casa,52.73,2025-07-13,2025-12-18,158,1
+BEN-00821,SRV-2025-0088,Valparaíso,San Antonio,I,Mejoramiento de vivienda rural,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Casa,137.97,2025-07-13,2025-12-18,158,1
+BEN-00822,SRV-2025-0088,Valparaíso,San Antonio,I,Mejoramiento de vivienda rural,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Casa,120.95,2025-07-13,2025-12-18,158,1
+BEN-00823,SRV-2026-0089,La Araucanía,Temuco,I,Mejoramiento de vivienda rural,Constructora Horizonte SpA,2023,6,Asignatario/a,Casa,64.53,2023-05-23,2023-09-06,106,0
+BEN-00824,SRV-2026-0089,La Araucanía,Temuco,I,Mejoramiento de vivienda rural,Constructora Horizonte SpA,2023,6,Propietario/a,Casa,58.66,2023-05-23,2023-09-06,106,0
+BEN-00825,SRV-2026-0089,La Araucanía,Temuco,I,Mejoramiento de vivienda rural,Constructora Horizonte SpA,2023,6,Propietario/a,Casa,130.97,2023-05-23,2023-09-06,106,0
+BEN-00826,SRV-2026-0089,La Araucanía,Temuco,I,Mejoramiento de vivienda rural,Constructora Horizonte SpA,2023,6,Propietario/a,Casa,101.28,2023-05-23,2023-09-06,106,0
+BEN-00827,SRV-2026-0089,La Araucanía,Temuco,I,Mejoramiento de vivienda rural,Constructora Horizonte SpA,2023,6,Asignatario/a,Casa,139.28,2023-05-23,2023-09-06,106,0
+BEN-00828,SRV-2026-0089,La Araucanía,Temuco,I,Mejoramiento de vivienda rural,Constructora Horizonte SpA,2023,6,Propietario/a,Casa,62.04,2023-05-23,2023-09-06,106,0
+BEN-00829,SRV-2022-0090,Biobío,Talcahuano,II,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,6,Asignatario/a,Casa,159.81,2025-04-04,2025-06-22,79,0
+BEN-00830,SRV-2022-0090,Biobío,Talcahuano,II,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Departamento,141.75,2025-04-04,2025-06-22,79,0
+BEN-00831,SRV-2022-0090,Biobío,Talcahuano,II,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,6,Asignatario/a,Departamento,65.44,2025-04-04,2025-06-22,79,0
+BEN-00832,SRV-2022-0090,Biobío,Talcahuano,II,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Casa,130.4,2025-04-04,2025-06-22,79,0
+BEN-00833,SRV-2022-0090,Biobío,Talcahuano,II,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Casa,217.48,2025-04-04,2025-06-22,79,0
+BEN-00834,SRV-2022-0090,Biobío,Talcahuano,II,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,6,Propietario/a,Casa,138.96,2025-04-04,2025-06-22,79,0
+BEN-00835,SRV-2023-0091,Los Lagos,Puerto Montt,I,Acondicionamiento térmico,Soluciones Habitacionales SpA,2025,6,Propietario/a,Casa,163.0,2025-01-10,2025-04-24,104,0
+BEN-00836,SRV-2023-0091,Los Lagos,Puerto Montt,I,Acondicionamiento térmico,Soluciones Habitacionales SpA,2025,6,Propietario/a,Departamento,103.87,2025-01-10,2025-04-24,104,0
+BEN-00837,SRV-2023-0091,Los Lagos,Puerto Montt,I,Acondicionamiento térmico,Soluciones Habitacionales SpA,2025,6,Propietario/a,Casa,88.78,2025-01-10,2025-04-24,104,0
+BEN-00838,SRV-2023-0091,Los Lagos,Puerto Montt,I,Acondicionamiento térmico,Soluciones Habitacionales SpA,2025,6,Propietario/a,Casa,122.83,2025-01-10,2025-04-24,104,0
+BEN-00839,SRV-2023-0091,Los Lagos,Puerto Montt,I,Acondicionamiento térmico,Soluciones Habitacionales SpA,2025,6,Ocupante regularizado,Casa,162.85,2025-01-10,2025-04-24,104,0
+BEN-00840,SRV-2023-0091,Los Lagos,Puerto Montt,I,Acondicionamiento térmico,Soluciones Habitacionales SpA,2025,6,Propietario/a,Casa,215.65,2025-01-10,2025-04-24,104,0
+BEN-00841,SRV-2024-0092,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2025,6,Propietario/a,Casa,77.18,2025-03-20,2025-05-28,69,0
+BEN-00842,SRV-2024-0092,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2025,6,Asignatario/a,Casa,134.13,2025-03-20,2025-05-28,69,0
+BEN-00843,SRV-2024-0092,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2025,6,Asignatario/a,Departamento,78.8,2025-03-20,2025-05-28,69,0
+BEN-00844,SRV-2024-0092,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2025,6,Asignatario/a,Departamento,100.22,2025-03-20,2025-05-28,69,0
+BEN-00845,SRV-2024-0092,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2025,6,Ocupante regularizado,Departamento,76.94,2025-03-20,2025-05-28,69,0
+BEN-00846,SRV-2024-0092,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2025,6,Asignatario/a,Casa,61.39,2025-03-20,2025-05-28,69,0
+BEN-00847,SRV-2025-0093,O'Higgins,San Fernando,III,Acondicionamiento térmico,Edifica Nacional SpA,2023,6,Propietario/a,Casa,95.96,2023-12-20,2024-04-10,112,0
+BEN-00848,SRV-2025-0093,O'Higgins,San Fernando,III,Acondicionamiento térmico,Edifica Nacional SpA,2023,6,Propietario/a,Casa,185.92,2023-12-20,2024-04-10,112,0
+BEN-00849,SRV-2025-0093,O'Higgins,San Fernando,III,Acondicionamiento térmico,Edifica Nacional SpA,2023,6,Propietario/a,Casa,44.53,2023-12-20,2024-04-10,112,0
+BEN-00850,SRV-2025-0093,O'Higgins,San Fernando,III,Acondicionamiento térmico,Edifica Nacional SpA,2023,6,Propietario/a,Casa,108.53,2023-12-20,2024-04-10,112,0
+BEN-00851,SRV-2025-0093,O'Higgins,San Fernando,III,Acondicionamiento térmico,Edifica Nacional SpA,2023,6,Propietario/a,Casa,78.99,2023-12-20,2024-04-10,112,0
+BEN-00852,SRV-2025-0093,O'Higgins,San Fernando,III,Acondicionamiento térmico,Edifica Nacional SpA,2023,6,Ocupante regularizado,Casa,134.99,2023-12-20,2024-04-10,112,0
+BEN-00853,SRV-2026-0094,Metropolitana,Maipú,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2023,6,Propietario/a,Departamento,225.18,2023-01-08,2023-03-20,71,0
+BEN-00854,SRV-2026-0094,Metropolitana,Maipú,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2023,6,Propietario/a,Casa,242.89,2023-01-08,2023-03-20,71,0
+BEN-00855,SRV-2026-0094,Metropolitana,Maipú,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2023,6,Propietario/a,Casa,114.82,2023-01-08,2023-03-20,71,0
+BEN-00856,SRV-2026-0094,Metropolitana,Maipú,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2023,6,Propietario/a,Casa,159.84,2023-01-08,2023-03-20,71,0
+BEN-00857,SRV-2026-0094,Metropolitana,Maipú,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2023,6,Propietario/a,Departamento,146.02,2023-01-08,2023-03-20,71,0
+BEN-00858,SRV-2026-0094,Metropolitana,Maipú,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2023,6,Asignatario/a,Casa,106.62,2023-01-08,2023-03-20,71,0
+BEN-00859,SRV-2022-0095,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Soluciones Habitacionales SpA,2023,6,Asignatario/a,Casa,99.59,2023-01-06,2023-07-18,193,1
+BEN-00860,SRV-2022-0095,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Soluciones Habitacionales SpA,2023,6,Asignatario/a,Casa,152.52,2023-01-06,2023-07-18,193,1
+BEN-00861,SRV-2022-0095,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Soluciones Habitacionales SpA,2023,6,Asignatario/a,Casa,100.2,2023-01-06,2023-07-18,193,1
+BEN-00862,SRV-2022-0095,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Soluciones Habitacionales SpA,2023,6,Propietario/a,Casa,116.69,2023-01-06,2023-07-18,193,1
+BEN-00863,SRV-2022-0095,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Soluciones Habitacionales SpA,2023,6,Asignatario/a,Departamento,118.6,2023-01-06,2023-07-18,193,1
+BEN-00864,SRV-2022-0095,Metropolitana,Peñalolén,I,Mejoramiento de vivienda,Soluciones Habitacionales SpA,2023,6,Propietario/a,Casa,86.65,2023-01-06,2023-07-18,193,1
+BEN-00865,SRV-2023-0096,Metropolitana,La Florida,I,Ampliación de vivienda,Constructora Los Robles Ltda.,2024,6,Asignatario/a,Casa,86.26,2024-07-20,2024-09-25,67,0
+BEN-00866,SRV-2023-0096,Metropolitana,La Florida,I,Ampliación de vivienda,Constructora Los Robles Ltda.,2024,6,Asignatario/a,Casa,89.6,2024-07-20,2024-09-25,67,0
+BEN-00867,SRV-2023-0096,Metropolitana,La Florida,I,Ampliación de vivienda,Constructora Los Robles Ltda.,2024,6,Propietario/a,Casa,107.66,2024-07-20,2024-09-25,67,0
+BEN-00868,SRV-2023-0096,Metropolitana,La Florida,I,Ampliación de vivienda,Constructora Los Robles Ltda.,2024,6,Ocupante regularizado,Casa,56.37,2024-07-20,2024-09-25,67,0
+BEN-00869,SRV-2023-0096,Metropolitana,La Florida,I,Ampliación de vivienda,Constructora Los Robles Ltda.,2024,6,Ocupante regularizado,Casa,98.3,2024-07-20,2024-09-25,67,0
+BEN-00870,SRV-2023-0096,Metropolitana,La Florida,I,Ampliación de vivienda,Constructora Los Robles Ltda.,2024,6,Propietario/a,Casa,55.22,2024-07-20,2024-09-25,67,0
+BEN-00871,SRV-2024-0097,Los Lagos,Puerto Montt,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2026,6,Propietario/a,Casa,140.51,2026-05-17,2026-09-29,135,0
+BEN-00872,SRV-2024-0097,Los Lagos,Puerto Montt,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2026,6,Propietario/a,Casa,90.42,2026-05-17,2026-09-29,135,0
+BEN-00873,SRV-2024-0097,Los Lagos,Puerto Montt,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2026,6,Propietario/a,Casa,58.05,2026-05-17,2026-09-29,135,0
+BEN-00874,SRV-2024-0097,Los Lagos,Puerto Montt,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2026,6,Asignatario/a,Departamento,77.34,2026-05-17,2026-09-29,135,0
+BEN-00875,SRV-2024-0097,Los Lagos,Puerto Montt,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2026,6,Asignatario/a,Casa,128.19,2026-05-17,2026-09-29,135,0
+BEN-00876,SRV-2024-0097,Los Lagos,Puerto Montt,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2026,6,Propietario/a,Casa,105.97,2026-05-17,2026-09-29,135,0
+BEN-00877,SRV-2025-0098,O'Higgins,San Fernando,II,Ampliación de vivienda,Constructora Andina Ltda.,2023,6,Propietario/a,Casa,127.37,2023-02-03,2023-05-23,109,0
+BEN-00878,SRV-2025-0098,O'Higgins,San Fernando,II,Ampliación de vivienda,Constructora Andina Ltda.,2023,6,Propietario/a,Departamento,151.02,2023-02-03,2023-05-23,109,0
+BEN-00879,SRV-2025-0098,O'Higgins,San Fernando,II,Ampliación de vivienda,Constructora Andina Ltda.,2023,6,Propietario/a,Casa,172.48,2023-02-03,2023-05-23,109,0
+BEN-00880,SRV-2025-0098,O'Higgins,San Fernando,II,Ampliación de vivienda,Constructora Andina Ltda.,2023,6,Ocupante regularizado,Casa,200.52,2023-02-03,2023-05-23,109,0
+BEN-00881,SRV-2025-0098,O'Higgins,San Fernando,II,Ampliación de vivienda,Constructora Andina Ltda.,2023,6,Asignatario/a,Casa,152.08,2023-02-03,2023-05-23,109,0
+BEN-00882,SRV-2025-0098,O'Higgins,San Fernando,II,Ampliación de vivienda,Constructora Andina Ltda.,2023,6,Propietario/a,Casa,195.46,2023-02-03,2023-05-23,109,0
+BEN-00883,SRV-2026-0099,Metropolitana,Maipú,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2022,6,Propietario/a,Departamento,146.39,2022-10-01,2022-12-11,71,0
+BEN-00884,SRV-2026-0099,Metropolitana,Maipú,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2022,6,Ocupante regularizado,Casa,254.77,2022-10-01,2022-12-11,71,0
+BEN-00885,SRV-2026-0099,Metropolitana,Maipú,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2022,6,Propietario/a,Departamento,85.93,2022-10-01,2022-12-11,71,0
+BEN-00886,SRV-2026-0099,Metropolitana,Maipú,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2022,6,Propietario/a,Departamento,103.47,2022-10-01,2022-12-11,71,0
+BEN-00887,SRV-2026-0099,Metropolitana,Maipú,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2022,6,Propietario/a,Departamento,83.67,2022-10-01,2022-12-11,71,0
+BEN-00888,SRV-2026-0099,Metropolitana,Maipú,I,Mejoramiento de vivienda rural,Constructora Valle Central Ltda.,2022,6,Asignatario/a,Casa,209.2,2022-10-01,2022-12-11,71,0
+BEN-00889,SRV-2022-0100,Valparaíso,Villa Alemana,III,Mejoramiento de bienes comunes,Constructora Andina Ltda.,2024,6,Propietario/a,Departamento,114.2,2024-11-04,2025-02-03,91,0
+BEN-00890,SRV-2022-0100,Valparaíso,Villa Alemana,III,Mejoramiento de bienes comunes,Constructora Andina Ltda.,2024,6,Asignatario/a,Casa,170.2,2024-11-04,2025-02-03,91,0
+BEN-00891,SRV-2022-0100,Valparaíso,Villa Alemana,III,Mejoramiento de bienes comunes,Constructora Andina Ltda.,2024,6,Propietario/a,Departamento,208.84,2024-11-04,2025-02-03,91,0
+BEN-00892,SRV-2022-0100,Valparaíso,Villa Alemana,III,Mejoramiento de bienes comunes,Constructora Andina Ltda.,2024,6,Propietario/a,Departamento,84.71,2024-11-04,2025-02-03,91,0
+BEN-00893,SRV-2022-0100,Valparaíso,Villa Alemana,III,Mejoramiento de bienes comunes,Constructora Andina Ltda.,2024,6,Propietario/a,Departamento,162.08,2024-11-04,2025-02-03,91,0
+BEN-00894,SRV-2022-0100,Valparaíso,Villa Alemana,III,Mejoramiento de bienes comunes,Constructora Andina Ltda.,2024,6,Propietario/a,Departamento,287.64,2024-11-04,2025-02-03,91,0
+BEN-00895,SRV-2023-0101,O'Higgins,Rancagua,III,Mejoramiento de bienes comunes,Constructora Horizonte SpA,2024,6,Asignatario/a,Departamento,184.35,2024-02-02,2024-05-02,90,0
+BEN-00896,SRV-2023-0101,O'Higgins,Rancagua,III,Mejoramiento de bienes comunes,Constructora Horizonte SpA,2024,6,Propietario/a,Casa,178.89,2024-02-02,2024-05-02,90,0
+BEN-00897,SRV-2023-0101,O'Higgins,Rancagua,III,Mejoramiento de bienes comunes,Constructora Horizonte SpA,2024,6,Propietario/a,Casa,125.95,2024-02-02,2024-05-02,90,0
+BEN-00898,SRV-2023-0101,O'Higgins,Rancagua,III,Mejoramiento de bienes comunes,Constructora Horizonte SpA,2024,6,Asignatario/a,Casa,90.84,2024-02-02,2024-05-02,90,0
+BEN-00899,SRV-2023-0101,O'Higgins,Rancagua,III,Mejoramiento de bienes comunes,Constructora Horizonte SpA,2024,6,Propietario/a,Casa,108.38,2024-02-02,2024-05-02,90,0
+BEN-00900,SRV-2023-0101,O'Higgins,Rancagua,III,Mejoramiento de bienes comunes,Constructora Horizonte SpA,2024,6,Propietario/a,Casa,162.46,2024-02-02,2024-05-02,90,0
+BEN-00901,SRV-2024-0102,Valparaíso,San Antonio,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2024,6,Propietario/a,Casa,69.63,2024-08-18,2024-10-27,70,0
+BEN-00902,SRV-2024-0102,Valparaíso,San Antonio,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2024,6,Propietario/a,Casa,87.74,2024-08-18,2024-10-27,70,0
+BEN-00903,SRV-2024-0102,Valparaíso,San Antonio,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2024,6,Propietario/a,Casa,164.06,2024-08-18,2024-10-27,70,0
+BEN-00904,SRV-2024-0102,Valparaíso,San Antonio,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2024,6,Ocupante regularizado,Casa,46.61,2024-08-18,2024-10-27,70,0
+BEN-00905,SRV-2024-0102,Valparaíso,San Antonio,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2024,6,Propietario/a,Departamento,169.6,2024-08-18,2024-10-27,70,0
+BEN-00906,SRV-2024-0102,Valparaíso,San Antonio,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2024,6,Ocupante regularizado,Casa,115.3,2024-08-18,2024-10-27,70,0
+BEN-00907,SRV-2025-0103,Los Lagos,Puerto Montt,II,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2025,6,Propietario/a,Casa,154.17,2025-11-06,2026-03-29,143,0
+BEN-00908,SRV-2025-0103,Los Lagos,Puerto Montt,II,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2025,6,Propietario/a,Departamento,461.08,2025-11-06,2026-03-29,143,0
+BEN-00909,SRV-2025-0103,Los Lagos,Puerto Montt,II,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2025,6,Ocupante regularizado,Departamento,105.56,2025-11-06,2026-03-29,143,0
+BEN-00910,SRV-2025-0103,Los Lagos,Puerto Montt,II,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2025,6,Propietario/a,Casa,130.58,2025-11-06,2026-03-29,143,0
+BEN-00911,SRV-2025-0103,Los Lagos,Puerto Montt,II,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2025,6,Asignatario/a,Departamento,119.53,2025-11-06,2026-03-29,143,0
+BEN-00912,SRV-2025-0103,Los Lagos,Puerto Montt,II,Mejoramiento de bienes comunes,Soluciones Habitacionales SpA,2025,6,Propietario/a,Casa,92.41,2025-11-06,2026-03-29,143,0
+BEN-00913,SRV-2026-0104,La Araucanía,Villarrica,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,6,Propietario/a,Casa,80.0,2024-12-05,2025-03-25,110,0
+BEN-00914,SRV-2026-0104,La Araucanía,Villarrica,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,6,Asignatario/a,Casa,249.73,2024-12-05,2025-03-25,110,0
+BEN-00915,SRV-2026-0104,La Araucanía,Villarrica,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,6,Ocupante regularizado,Departamento,61.44,2024-12-05,2025-03-25,110,0
+BEN-00916,SRV-2026-0104,La Araucanía,Villarrica,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,6,Propietario/a,Casa,79.49,2024-12-05,2025-03-25,110,0
+BEN-00917,SRV-2026-0104,La Araucanía,Villarrica,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,6,Propietario/a,Casa,86.97,2024-12-05,2025-03-25,110,0
+BEN-00918,SRV-2026-0104,La Araucanía,Villarrica,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,6,Propietario/a,Casa,69.03,2024-12-05,2025-03-25,110,0
+BEN-00919,SRV-2022-0105,Metropolitana,Puente Alto,I,Acondicionamiento térmico,Constructora Andina Ltda.,2023,6,Propietario/a,Departamento,80.64,2023-06-18,2024-05-25,342,1
+BEN-00920,SRV-2022-0105,Metropolitana,Puente Alto,I,Acondicionamiento térmico,Constructora Andina Ltda.,2023,6,Propietario/a,Casa,179.77,2023-06-18,2024-05-25,342,1
+BEN-00921,SRV-2022-0105,Metropolitana,Puente Alto,I,Acondicionamiento térmico,Constructora Andina Ltda.,2023,6,Propietario/a,Casa,194.2,2023-06-18,2024-05-25,342,1
+BEN-00922,SRV-2022-0105,Metropolitana,Puente Alto,I,Acondicionamiento térmico,Constructora Andina Ltda.,2023,6,Propietario/a,Casa,88.76,2023-06-18,2024-05-25,342,1
+BEN-00923,SRV-2022-0105,Metropolitana,Puente Alto,I,Acondicionamiento térmico,Constructora Andina Ltda.,2023,6,Propietario/a,Departamento,84.37,2023-06-18,2024-05-25,342,1
+BEN-00924,SRV-2022-0105,Metropolitana,Puente Alto,I,Acondicionamiento térmico,Constructora Andina Ltda.,2023,6,Propietario/a,Departamento,63.48,2023-06-18,2024-05-25,342,1
+BEN-00925,SRV-2023-0106,Metropolitana,Peñalolén,IV,Ampliación de vivienda,Constructora Horizonte SpA,2023,6,Propietario/a,Casa,188.06,2023-02-23,2023-12-11,291,1
+BEN-00926,SRV-2023-0106,Metropolitana,Peñalolén,IV,Ampliación de vivienda,Constructora Horizonte SpA,2023,6,Propietario/a,Departamento,214.26,2023-02-23,2023-12-11,291,1
+BEN-00927,SRV-2023-0106,Metropolitana,Peñalolén,IV,Ampliación de vivienda,Constructora Horizonte SpA,2023,6,Asignatario/a,Departamento,114.4,2023-02-23,2023-12-11,291,1
+BEN-00928,SRV-2023-0106,Metropolitana,Peñalolén,IV,Ampliación de vivienda,Constructora Horizonte SpA,2023,6,Propietario/a,Departamento,103.63,2023-02-23,2023-12-11,291,1
+BEN-00929,SRV-2023-0106,Metropolitana,Peñalolén,IV,Ampliación de vivienda,Constructora Horizonte SpA,2023,6,Asignatario/a,Casa,196.54,2023-02-23,2023-12-11,291,1
+BEN-00930,SRV-2023-0106,Metropolitana,Peñalolén,IV,Ampliación de vivienda,Constructora Horizonte SpA,2023,6,Asignatario/a,Casa,174.3,2023-02-23,2023-12-11,291,1
+BEN-00931,SRV-2024-0107,Biobío,Coronel,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,5,Propietario/a,Casa,128.88,2024-02-24,2024-05-05,71,0
+BEN-00932,SRV-2024-0107,Biobío,Coronel,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,5,Asignatario/a,Casa,88.99,2024-02-24,2024-05-05,71,0
+BEN-00933,SRV-2024-0107,Biobío,Coronel,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,5,Propietario/a,Casa,122.8,2024-02-24,2024-05-05,71,0
+BEN-00934,SRV-2024-0107,Biobío,Coronel,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,5,Propietario/a,Casa,60.33,2024-02-24,2024-05-05,71,0
+BEN-00935,SRV-2024-0107,Biobío,Coronel,I,Mejoramiento de vivienda,Proyectos y Montajes del Sur SpA,2024,5,Asignatario/a,Departamento,171.16,2024-02-24,2024-05-05,71,0
+BEN-00936,SRV-2025-0108,Biobío,Chillán,III,Mejoramiento de bienes comunes,Constructora Los Robles Ltda.,2025,5,Propietario/a,Casa,54.67,2025-03-12,2025-07-31,141,1
+BEN-00937,SRV-2025-0108,Biobío,Chillán,III,Mejoramiento de bienes comunes,Constructora Los Robles Ltda.,2025,5,Propietario/a,Casa,90.49,2025-03-12,2025-07-31,141,1
+BEN-00938,SRV-2025-0108,Biobío,Chillán,III,Mejoramiento de bienes comunes,Constructora Los Robles Ltda.,2025,5,Propietario/a,Departamento,91.13,2025-03-12,2025-07-31,141,1
+BEN-00939,SRV-2025-0108,Biobío,Chillán,III,Mejoramiento de bienes comunes,Constructora Los Robles Ltda.,2025,5,Propietario/a,Casa,124.58,2025-03-12,2025-07-31,141,1
+BEN-00940,SRV-2025-0108,Biobío,Chillán,III,Mejoramiento de bienes comunes,Constructora Los Robles Ltda.,2025,5,Asignatario/a,Casa,118.69,2025-03-12,2025-07-31,141,1
+BEN-00941,SRV-2026-0109,Metropolitana,San Bernardo,I,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,5,Propietario/a,Departamento,81.52,2025-06-07,2025-09-07,92,0
+BEN-00942,SRV-2026-0109,Metropolitana,San Bernardo,I,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,5,Propietario/a,Casa,97.27,2025-06-07,2025-09-07,92,0
+BEN-00943,SRV-2026-0109,Metropolitana,San Bernardo,I,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,5,Propietario/a,Casa,211.29,2025-06-07,2025-09-07,92,0
+BEN-00944,SRV-2026-0109,Metropolitana,San Bernardo,I,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,5,Propietario/a,Casa,135.68,2025-06-07,2025-09-07,92,0
+BEN-00945,SRV-2026-0109,Metropolitana,San Bernardo,I,Mejoramiento de vivienda,Gestión Urbana y Obras SpA,2025,5,Propietario/a,Casa,156.31,2025-06-07,2025-09-07,92,0
+BEN-00946,SRV-2022-0110,Los Lagos,Osorno,II,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2025,5,Propietario/a,Casa,108.36,2025-06-19,2025-08-27,69,0
+BEN-00947,SRV-2022-0110,Los Lagos,Osorno,II,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2025,5,Propietario/a,Casa,93.78,2025-06-19,2025-08-27,69,0
+BEN-00948,SRV-2022-0110,Los Lagos,Osorno,II,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2025,5,Asignatario/a,Casa,104.38,2025-06-19,2025-08-27,69,0
+BEN-00949,SRV-2022-0110,Los Lagos,Osorno,II,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2025,5,Propietario/a,Casa,159.89,2025-06-19,2025-08-27,69,0
+BEN-00950,SRV-2022-0110,Los Lagos,Osorno,II,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2025,5,Asignatario/a,Casa,129.59,2025-06-19,2025-08-27,69,0
+BEN-00951,SRV-2023-0111,Valparaíso,Quilpué,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2024,5,Propietario/a,Departamento,68.81,2024-09-15,2024-12-02,78,0
+BEN-00952,SRV-2023-0111,Valparaíso,Quilpué,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2024,5,Propietario/a,Casa,158.58,2024-09-15,2024-12-02,78,0
+BEN-00953,SRV-2023-0111,Valparaíso,Quilpué,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2024,5,Propietario/a,Casa,169.75,2024-09-15,2024-12-02,78,0
+BEN-00954,SRV-2023-0111,Valparaíso,Quilpué,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2024,5,Propietario/a,Departamento,49.85,2024-09-15,2024-12-02,78,0
+BEN-00955,SRV-2023-0111,Valparaíso,Quilpué,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2024,5,Propietario/a,Casa,114.93,2024-09-15,2024-12-02,78,0
+BEN-00956,SRV-2024-0112,La Araucanía,Padre Las Casas,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2025,5,Propietario/a,Casa,61.68,2025-01-13,2025-05-26,133,0
+BEN-00957,SRV-2024-0112,La Araucanía,Padre Las Casas,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2025,5,Propietario/a,Casa,275.39,2025-01-13,2025-05-26,133,0
+BEN-00958,SRV-2024-0112,La Araucanía,Padre Las Casas,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2025,5,Propietario/a,Casa,296.79,2025-01-13,2025-05-26,133,0
+BEN-00959,SRV-2024-0112,La Araucanía,Padre Las Casas,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2025,5,Propietario/a,Casa,69.85,2025-01-13,2025-05-26,133,0
+BEN-00960,SRV-2024-0112,La Araucanía,Padre Las Casas,I,Mejoramiento de vivienda,Constructora del Pacífico Ltda.,2025,5,Ocupante regularizado,Casa,199.64,2025-01-13,2025-05-26,133,0
+BEN-00961,SRV-2025-0113,Biobío,Los Ángeles,I,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2025,5,Propietario/a,Casa,115.17,2025-05-17,2025-06-30,44,0
+BEN-00962,SRV-2025-0113,Biobío,Los Ángeles,I,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2025,5,Propietario/a,Casa,74.63,2025-05-17,2025-06-30,44,0
+BEN-00963,SRV-2025-0113,Biobío,Los Ángeles,I,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2025,5,Propietario/a,Departamento,220.65,2025-05-17,2025-06-30,44,0
+BEN-00964,SRV-2025-0113,Biobío,Los Ángeles,I,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2025,5,Propietario/a,Casa,117.87,2025-05-17,2025-06-30,44,0
+BEN-00965,SRV-2025-0113,Biobío,Los Ángeles,I,Acondicionamiento térmico,Obras y Vivienda Chile SpA,2025,5,Propietario/a,Casa,191.79,2025-05-17,2025-06-30,44,0
+BEN-00966,SRV-2026-0114,O'Higgins,San Fernando,I,Ampliación de vivienda,Constructora del Pacífico Ltda.,2024,5,Propietario/a,Casa,118.5,2024-01-05,2024-05-07,123,0
+BEN-00967,SRV-2026-0114,O'Higgins,San Fernando,I,Ampliación de vivienda,Constructora del Pacífico Ltda.,2024,5,Asignatario/a,Departamento,143.24,2024-01-05,2024-05-07,123,0
+BEN-00968,SRV-2026-0114,O'Higgins,San Fernando,I,Ampliación de vivienda,Constructora del Pacífico Ltda.,2024,5,Asignatario/a,Casa,232.96,2024-01-05,2024-05-07,123,0
+BEN-00969,SRV-2026-0114,O'Higgins,San Fernando,I,Ampliación de vivienda,Constructora del Pacífico Ltda.,2024,5,Propietario/a,Casa,68.14,2024-01-05,2024-05-07,123,0
+BEN-00970,SRV-2026-0114,O'Higgins,San Fernando,I,Ampliación de vivienda,Constructora del Pacífico Ltda.,2024,5,Propietario/a,Casa,104.52,2024-01-05,2024-05-07,123,0
+BEN-00971,SRV-2022-0115,Valparaíso,Villa Alemana,II,Mejoramiento de vivienda,Edifica Nacional SpA,2026,5,Propietario/a,Casa,179.49,2026-04-04,2026-07-24,111,0
+BEN-00972,SRV-2022-0115,Valparaíso,Villa Alemana,II,Mejoramiento de vivienda,Edifica Nacional SpA,2026,5,Asignatario/a,Casa,128.87,2026-04-04,2026-07-24,111,0
+BEN-00973,SRV-2022-0115,Valparaíso,Villa Alemana,II,Mejoramiento de vivienda,Edifica Nacional SpA,2026,5,Asignatario/a,Casa,75.82,2026-04-04,2026-07-24,111,0
+BEN-00974,SRV-2022-0115,Valparaíso,Villa Alemana,II,Mejoramiento de vivienda,Edifica Nacional SpA,2026,5,Propietario/a,Casa,136.91,2026-04-04,2026-07-24,111,0
+BEN-00975,SRV-2022-0115,Valparaíso,Villa Alemana,II,Mejoramiento de vivienda,Edifica Nacional SpA,2026,5,Propietario/a,Casa,174.27,2026-04-04,2026-07-24,111,0
+BEN-00976,SRV-2023-0116,Metropolitana,Maipú,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2023,5,Asignatario/a,Casa,67.06,2023-12-10,2024-02-03,55,0
+BEN-00977,SRV-2023-0116,Metropolitana,Maipú,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2023,5,Propietario/a,Casa,129.18,2023-12-10,2024-02-03,55,0
+BEN-00978,SRV-2023-0116,Metropolitana,Maipú,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2023,5,Propietario/a,Casa,149.93,2023-12-10,2024-02-03,55,0
+BEN-00979,SRV-2023-0116,Metropolitana,Maipú,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2023,5,Asignatario/a,Casa,108.72,2023-12-10,2024-02-03,55,0
+BEN-00980,SRV-2023-0116,Metropolitana,Maipú,I,Mejoramiento de bienes comunes,Proyectos y Montajes del Sur SpA,2023,5,Propietario/a,Casa,70.13,2023-12-10,2024-02-03,55,0
+BEN-00981,SRV-2024-0117,Valparaíso,Valparaíso,I,Mejoramiento de vivienda rural,Constructora Andina Ltda.,2024,5,Propietario/a,Casa,66.76,2024-10-17,2025-01-21,96,0
+BEN-00982,SRV-2024-0117,Valparaíso,Valparaíso,I,Mejoramiento de vivienda rural,Constructora Andina Ltda.,2024,5,Propietario/a,Casa,75.45,2024-10-17,2025-01-21,96,0
+BEN-00983,SRV-2024-0117,Valparaíso,Valparaíso,I,Mejoramiento de vivienda rural,Constructora Andina Ltda.,2024,5,Propietario/a,Casa,76.79,2024-10-17,2025-01-21,96,0
+BEN-00984,SRV-2024-0117,Valparaíso,Valparaíso,I,Mejoramiento de vivienda rural,Constructora Andina Ltda.,2024,5,Propietario/a,Casa,188.15,2024-10-17,2025-01-21,96,0
+BEN-00985,SRV-2024-0117,Valparaíso,Valparaíso,I,Mejoramiento de vivienda rural,Constructora Andina Ltda.,2024,5,Propietario/a,Casa,139.33,2024-10-17,2025-01-21,96,0
+BEN-00986,SRV-2025-0118,La Araucanía,Angol,III,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2025,5,Propietario/a,Casa,177.56,2025-01-03,2025-03-20,76,0
+BEN-00987,SRV-2025-0118,La Araucanía,Angol,III,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2025,5,Propietario/a,Casa,69.4,2025-01-03,2025-03-20,76,0
+BEN-00988,SRV-2025-0118,La Araucanía,Angol,III,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2025,5,Propietario/a,Departamento,207.82,2025-01-03,2025-03-20,76,0
+BEN-00989,SRV-2025-0118,La Araucanía,Angol,III,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2025,5,Ocupante regularizado,Departamento,187.6,2025-01-03,2025-03-20,76,0
+BEN-00990,SRV-2025-0118,La Araucanía,Angol,III,Mejoramiento de bienes comunes,Constructora Nuevo Sur Ltda.,2025,5,Asignatario/a,Casa,119.64,2025-01-03,2025-03-20,76,0
+BEN-00991,SRV-2026-0119,O'Higgins,San Fernando,III,Ampliación de vivienda,Soluciones Habitacionales SpA,2024,5,Asignatario/a,Casa,72.87,2024-01-02,2024-12-25,358,1
+BEN-00992,SRV-2026-0119,O'Higgins,San Fernando,III,Ampliación de vivienda,Soluciones Habitacionales SpA,2024,5,Asignatario/a,Departamento,168.71,2024-01-02,2024-12-25,358,1
+BEN-00993,SRV-2026-0119,O'Higgins,San Fernando,III,Ampliación de vivienda,Soluciones Habitacionales SpA,2024,5,Propietario/a,Casa,71.06,2024-01-02,2024-12-25,358,1
+BEN-00994,SRV-2026-0119,O'Higgins,San Fernando,III,Ampliación de vivienda,Soluciones Habitacionales SpA,2024,5,Propietario/a,Casa,165.99,2024-01-02,2024-12-25,358,1
+BEN-00995,SRV-2026-0119,O'Higgins,San Fernando,III,Ampliación de vivienda,Soluciones Habitacionales SpA,2024,5,Propietario/a,Casa,71.35,2024-01-02,2024-12-25,358,1
+BEN-00996,SRV-2022-0120,Biobío,Coronel,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2025,5,Propietario/a,Casa,60.03,2025-09-02,2025-11-11,70,0
+BEN-00997,SRV-2022-0120,Biobío,Coronel,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2025,5,Propietario/a,Casa,243.31,2025-09-02,2025-11-11,70,0
+BEN-00998,SRV-2022-0120,Biobío,Coronel,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2025,5,Propietario/a,Casa,148.35,2025-09-02,2025-11-11,70,0
+BEN-00999,SRV-2022-0120,Biobío,Coronel,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2025,5,Ocupante regularizado,Casa,89.98,2025-09-02,2025-11-11,70,0
+BEN-01000,SRV-2022-0120,Biobío,Coronel,I,Mejoramiento de vivienda,Constructora Nuevo Sur Ltda.,2025,5,Asignatario/a,Casa,129.5,2025-09-02,2025-11-11,70,0
